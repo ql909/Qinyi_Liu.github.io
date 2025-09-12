@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a Ph.D. candidate from the Centre for the science of learning & technology, University of Bergen, Norway. My research focuses on using artificial intelligence and data-driven tools (e.g., generative AI, Privacy-Perserving Machine Learning) to address privacy and data protection issues in learning analytics and to build trustworthy learning analytics.
 
 ## Research Interests
 
