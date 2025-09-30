@@ -197,5 +197,32 @@
       <div class="periodical"><em>British Journal of Educational Technology</em> (2025)</div>
     <div class="links">
       <a href="https://doi.org/10.1111/bjet.13580" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      <strong> <i style="color:#e74d3c">[IF=6.7] [SSCI]</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+    <img src="/assets/img/default_pub.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;">
+    <div style="position:absolute; top:5px; left:5px; background-color:rgba(0,0,0,0.6); color:#fff; font-size:12px; padding:2px 5px; border-radius:3px;">11</div>
+    <abbr class="badge">Springer</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.1007/978-981-97-9388-4_4">How to plan and manage a blended learning course module using generative artificial intelligence?</a></div>
+      <div class="author">Mohammad Khalil, Ronas Shakya, <strong>Qinyi Liu</strong>, Martin Ebner</div>
+      <div class="periodical"><em>Case Studies on Blended Learning in Higher Education</em> (pp. 53–72). Springer (2024)</div>
+    <div class="links">
+      <a href="https://doi.org/10.1007/978-981-97-9388-4_4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+</ol>
+</div>
+
      
 
