@@ -16,6 +16,8 @@ My research interests are mainly in privacy-enhancing technology (PET) + learnin
 - **AI for education:** learning analytics, knowledge tracing, adaptive learning system
 - **Privacy enhancing techniques:** synthetic data generation, differential privacy, machine unlearning, federated learning, zero knoweldge proof
 
+> 🚀 **If you see our research intersect, feel free to reach out — I am always open to discussing potential collaborations.**
+
 
 {% include_relative _includes/publications.md %}
 
