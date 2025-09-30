@@ -1,6 +1,5 @@
 ## Publications {#publications}
 ### Conference Papers
-<h2 id="publications" style="margin: 2px 0px -15px;">Conference Papers</h2>
 <div class="publications">
 <ol class="bibliography">
 <li>
@@ -91,7 +90,6 @@
 </div>
 
 ### Journal Articles
-<h2 id="journal-articles" style="margin: 2px 0px -15px;">Journal Articles</h2>
 <div class="publications">
 <ol class="bibliography">
 <li>
@@ -166,7 +164,7 @@
 </div>
 
 ### Book Chapters & Contributions to Edited Volumes
-<h2 id="book-chapters" style="margin: 2px 0px -15px;">Book Chapters & Contributions to Edited Volumes</h2>
+
 <div class="publications">
 <ol class="bibliography">
 <li>
