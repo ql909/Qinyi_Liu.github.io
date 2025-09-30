@@ -1,7 +1,6 @@
 Funding & Awards {#funding-awards}
 
-<h4 style="margin:0 10px 0;">Fundings</h4>
-<ul style="margin:0 0 5px;">
+Fundings
 
   <autocolor>Co-Principal Investigator, Norwegian Artificial Intelligence Research Consortium Summer School AI Course Grant (NOK 50,000)</autocolor>, 2024
   <autocolor>Co-Principal Investigator, University of Bergen’s Institutional Funding for Synthetic Data (NOK 500,000)</autocolor>, 2024
@@ -10,8 +9,7 @@ Funding & Awards {#funding-awards}
   <autocolor>Travel Award, Norwegian Conference on Artificial Intelligence Research Consortium (NOK 1000)</autocolor>, 2023
 
 
-<h4 style="margin:0 10px 0;">Awards</h4>
-<ul style="margin:0 0 5px;">
+Awards
 
 
   <autocolor>Doctoral Consortium Fellowship, International Conference on Learning Analytics and Knowledge (LAK’24), Kyoto, Japan (USD 2,000)</autocolor>, 2024
