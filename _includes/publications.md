@@ -5,7 +5,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <!-- 添加图片 example -->
-    <img src="/assets/images/ictcs2025.jpg" class="teaser img-fluid z-depth-1" style="width:100%; height:40%;">
+    <img src="/assets/img/ictcs2025.jpg" class="teaser img-fluid z-depth-1" style="width:100%; height:40%;">
     <!-- 可选：添加会议缩写徽章 -->
     <abbr class="badge">ICTCS</abbr>
   </div>
