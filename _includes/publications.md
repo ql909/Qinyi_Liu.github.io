@@ -1,7 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 ### Conference Papers
-<div class="publications">
+<div class="publications" style="margin-top: 20px;">
 <ol class="bibliography">
 <li>
 <div class="pub-row">
@@ -90,138 +90,6 @@
       <div class="periodical"><em>LAK24: 14th International Learning Analytics and Knowledge Conference</em> (2024)</div>
     <div class="links">
       <a href="https://doi.org/10.1145/3636555.3636921" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
-      <strong> <i style="color:#e74d3c">[30% acceptance rate] [CORE-A]</i></strong>
-    </div>
-  </div>
-</div>
-</li>
-<br>
-</ol>
-</div>
-
-### Journal Articles
-<div class="publications">
-<ol class="bibliography">
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/default_pub.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;" alt="A systematic review...">
-    <span style="position: absolute; top: 5px; left: 5px; background: rgba(0,0,0,0.7); color: white; padding: 2px 5px; font-size: 12px; font-weight: bold; border-radius: 3px; z-index: 10;">1</span>
-    <abbr class="badge">EPR</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://doi.org/10.1007/s10648-025-10046-y">A systematic review on student engagement in undergraduate mathematics: Conceptualization, measurement, and learning outcomes</a></div>
-      <div class="author">Elissavet Papageorgiou, Jacqueline Wong, <strong>Qinyi Liu</strong>, Mohammad Khalil, Ana Cabo</div>
-      <div class="periodical"><em>Educational Psychology Review</em> (2025)</div>
-    <div class="links">
-      <a href="https://doi.org/10.1007/s10648-025-10046-y" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
-      <strong> <i style="color:#e74d3c">[IF=10.1] [SSCI]</i></strong>
-    </div>
-  </div>
-</div>
-</li>
-<br>
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/bjet.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;" alt="Ensuring privacy...">
-    <span style="position: absolute; top: 5px; left: 5px; background: rgba(0,0,0,0.7); color: white; padding: 2px 5px; font-size: 12px; font-weight: bold; border-radius: 3px; z-index: 10;">2</span>
-    <abbr class="badge">BJET</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://doi.org/10.1111/bjet.13576">Ensuring privacy through synthetic data generation in education</a></div>
-      <div class="author"><strong>Qinyi Liu</strong>, Ronas Shakya, Jelena Jovanovic, Mohammad Khalil, Javier de la Hoz-Ruiz</div>
-      <div class="periodical"><em>British Journal of Educational Technology</em>, 00, 1–21 (2025)</div>
-    <div class="links">
-      <a href="https://doi.org/10.1111/bjet.13576" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
-      <strong> <i style="color:#e74d3c">[IF=6.7] [SSCI]</i></strong>
-    </div>
-  </div>
-</div>
-</li>
-<br>
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/default_pub.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;" alt="Learning analytics...">
-    <span style="position: absolute; top: 5px; left: 5px; background: rgba(0,0,0,0.7); color: white; padding: 2px 5px; font-size: 12px; font-weight: bold; border-radius: 3px; z-index: 10;">3</span>
-    <abbr class="badge">Frontiers</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://doi.org/10.3389/fpsyg.2024.1302658">Learning analytics for enhanced professional capital development: a systematic review</a></div>
-      <div class="author">Javier de La Hoz-Ruiz, Mohammad Khalil, Jesús Domingo Segovia, <strong>Qinyi Liu</strong></div>
-      <div class="periodical"><em>Frontiers in Psychology</em>, 15 (2024)</div>
-    <div class="links">
-      <a href="https://doi.org/10.3389/fpsyg.2024.1302658" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
-      <strong> <i style="color:#e74d3c">[IF=3.8] [SSCI]</i></strong>
-    </div>
-  </div>
-</div>
-</li>
-<br>
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/bjet2.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;" alt="Understanding privacy...">
-    <span style="position: absolute; top: 5px; left: 5px; background: rgba(0,0,0,0.7); color: white; padding: 2px 5px; font-size: 12px; font-weight: bold; border-radius: 3px; z-index: 10;">4</span>
-    <abbr class="badge">BJET</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://doi.org/10.1111/bjet.13388">Understanding privacy and data protection issues in learning analytics using a systematic review</a></div>
-      <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil</div>
-      <div class="periodical"><em>British Journal of Educational Technology</em>, 54, 1715–1747 (2023)</div>
-    <div class="links">
-      <a href="https://doi.org/10.1111/bjet.13388" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
-      <strong> <i style="color:#e74d3c">[IF=6.7] [SSCI]</i></strong>
-    </div>
-  </div>
-</div>
-</li>
-<br>
-</ol>
-</div>
-
-### Book Chapters & Contributions to Edited Volumes
-<div class="publications">
-<ol class="bibliography">
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/default_pub.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;" alt="AI for data generation...">
-    <span style="position: absolute; top: 5px; left: 5px; background: rgba(0,0,0,0.7); color: white; padding: 2px 5px; font-size: 12px; font-weight: bold; border-radius: 3px; z-index: 10;">1</span>
-    <abbr class="badge">BJET</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://doi.org/10.1111/bjet.13580">AI for data generation in education: Towards learning and teaching support at scale [Editorial]</a></div>
-      <div class="author">Mohammad Khalil, <strong>Qinyi Liu</strong>, Jelena Jovanovic</div>
-      <div class="periodical"><em>British Journal of Educational Technology</em> (2025)</div>
-    <div class="links">
-      <a href="https://doi.org/10.1111/bjet.13580" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
-      <strong> <i style="color:#e74d3c">[IF=6.7] [SSCI]</i></strong>
-    </div>
-  </div>
-</div>
-</li>
-<br>
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/default_pub.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;" alt="How to plan...">
-    <span style="position: absolute; top: 5px; left: 5px; background: rgba(0,0,0,0.7); color: white; padding: 2px 5px; font-size: 12px; font-weight: bold; border-radius: 3px; z-index: 10;">2</span>
-    <abbr class="badge">Springer</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://doi.org/10.1007/978-981-97-9388-4_4">How to plan and manage a blended learning course module using generative artificial intelligence?</a></div>
-      <div class="author">Mohammad Khalil, Ronas Shakya, <strong>Qinyi Liu</strong>, Martin Ebner</div>
-      <div class="periodical"><em>Case Studies on Blended Learning in Higher Education</em> (pp. 53–72). Springer (2024)</div>
-    <div class="links">
-      <a href="https://doi.org/10.1007/978-981-97-9388-4_4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
-    </div>
-  </div>
-</div>
-</li>
-<br>
-</ol>
-</div>
+      <strong>
 
 
