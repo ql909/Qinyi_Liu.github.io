@@ -37,5 +37,3 @@ Mentoring
 <autocolor>Sebastian Nordanger, “Evaluating Synthetic Educational Datasets with Explainable Artificial Intelligence (XAI),” Master Student Thesis</autocolor>, 2025 – 2026
 
 
-
-<autocolor>Ronas Shakya, Research Assistant</autocolor>, Oct 2023 – Aug 2025
