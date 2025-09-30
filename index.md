@@ -20,4 +20,7 @@ I'm a Ph.D. candidate from the Centre for the science of learning & technology, 
 
 {% include_relative _includes/publications.md %}
 
+## Teaching {#teaching}
+{% include teaching.md %}
+
 {% include_relative _includes/services.md %}
