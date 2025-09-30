@@ -1,15 +1,32 @@
-Teaching {#teaching}
-Teaching
+<h2 id="teaching">Teaching</h2>
 
-  <autocolor>Co-instructor, Generative AI for Synthetic Data: Applications in Machine Learning, Norwegian Artificial Intelligence Research Consortium Summer School</autocolor>, 2025
-  <autocolor>Co-instructor, IGSIN919V Introduction to Practical Machine Learning, University of Bergen</autocolor>, 2025
-  <autocolor>Guest Lecturer, INFO900 Introduction to Learning Analytics, University of Learning Analytics</autocolor>, Sept – Dec 2024
-  <autocolor>Co-instructor, IGSIN919V Introduction to Practical Machine Learning, University of Bergen</autocolor>, 2024
-  <autocolor>Co-instructor, IGSIN919 Introduction to Practical Machine Learning, University of Bergen</autocolor>, 2023
+<ul class="teaching-list">
+  <li>
+    <autocolor>Co-instructor, Generative AI for Synthetic Data: Applications in Machine Learning, Norwegian Artificial Intelligence Research Consortium Summer School</autocolor>, 2025
+  </li>
+  <li>
+    <autocolor>Co-instructor, IGSIN919V Introduction to Practical Machine Learning, University of Bergen</autocolor>, 2025
+  </li>
+  <li>
+    <autocolor>Guest Lecturer, INFO900 Introduction to Learning Analytics, University of Learning Analytics</autocolor>, Sept – Dec 2024
+  </li>
+  <li>
+    <autocolor>Co-instructor, IGSIN919V Introduction to Practical Machine Learning, University of Bergen</autocolor>, 2024
+  </li>
+  <li>
+    <autocolor>Co-instructor, IGSIN919 Introduction to Practical Machine Learning, University of Bergen</autocolor>, 2023
+  </li>
+</ul>
 
-Mentoring
+<h2 id="mentoring">Mentoring</h2>
 
-  <autocolor>Håvard Lindgren, “Towards High Utility Education Tabular Synthetic Data,” Master Student Thesis</autocolor>, 2025 – 2026
-  <autocolor>Sebastian Nordanger, “Evaluating Synthetic Educational Datasets with Explainable Artificial Intelligence (XAI),” Master Student Thesis</autocolor>, 2025 – 2026
+<ul class="mentoring-list">
+  <li>
+    <autocolor>Håvard Lindgren, “Towards High Utility Education Tabular Synthetic Data,” Master Student Thesis</autocolor>, 2025 – 2026
+  </li>
+  <li>
+    <autocolor>Sebastian Nordanger, “Evaluating Synthetic Educational Datasets with Explainable Artificial Intelligence (XAI),” Master Student Thesis</autocolor>, 2025 – 2026
+  </li>
+</ul>
 
 
