@@ -24,6 +24,7 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.springer.com/journal/43681"><autocolor>AI and Ethics</autocolor></a>, 2025</li>
   <li><a href="https://journalofbigdata.springeropen.com/"><autocolor>Journal of Big Data</autocolor></a>, 2025</li>
+  <li><a href="https://journalofbigdata.springeropen.com/"><autocolor>Transactions on Information Forensics & Security</autocolor></a>, 2025</li>
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports (Nature)</autocolor></a>, 2025</li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Knowledge and Data Engineering</autocolor></a>, 2025</li>
   <li><a href="https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence"><autocolor>Computers & Education: Artificial Intelligence</autocolor></a>, 2025</li>
