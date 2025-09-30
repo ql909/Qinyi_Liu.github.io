@@ -60,25 +60,29 @@
 </li>
 <br>
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr position-relative" style="padding: 0 15px;">
-    <img src="/assets/img/stu.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;">
-    <div style="position:absolute; top:5px; left:5px; background:#e74d3c; color:#fff; font-weight:bold; padding:2px 6px; border-radius:4px;">12</div>
-    <abbr class="badge">LAK</abbr>
-  </div>
-  <div class="col-sm-9" style="padding-left:20px;">
-      <div class="title"><a href="#">Creating artificial students that never existed: Leveraging large language models and CTGANs for synthetic data generation</a></div>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr position-relative" style="padding: 0 15px;">
+      <!-- 论文图片 -->
+      <img src="/assets/img/stu.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;">
+      <!-- 序号 -->
+      <div style="position:absolute; top:5px; left:5px; background:#e74d3c; color:#fff; font-weight:bold; padding:2px 6px; border-radius:4px;">12</div>
+      <!-- 徽章 -->
+      <abbr class="badge" style="position:absolute; top:5px; right:5px;">LAK</abbr>
+    </div>
+    <div class="col-sm-9" style="padding-left:20px;">
+      <div class="title">
+        <a href="#">Creating artificial students that never existed: Leveraging large language models and CTGANs for synthetic data generation</a>
+      </div>
       <div class="author">M Khalil, F Vadiee, R Shakya, <strong>Qinyi Liu</strong></div>
       <div class="periodical"><em>Proceedings of the 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
-    <div class="links">
-      <a href="#" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-      <strong> <i style="color:#e74d3c">[29% acceptance rate] [CORE-A]</i></strong>
+      <div class="links">
+        <a href="#" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+        <strong> <i style="color:#e74d3c">[29% acceptance rate] [CORE-A]</i></strong>
+      </div>
     </div>
   </div>
-</div>
 </li>
 <br>
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
