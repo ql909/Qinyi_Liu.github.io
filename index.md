@@ -14,7 +14,9 @@ I have an interdisciplinary background in computer science and social science, h
 My research interests are mainly in privacy-enhancing technology (PET) + learning analytics, aiming to utilizing state-of-arts privacy-enhancing technology to advance trustworthy AI for education, with a focus on develop and fine-tune domain specific PET for application.
 
 - **AI for education:** learning analytics, knowledge tracing, adaptive learning system
-- **Privacy enhancing techniques:** synthetic data generation, differential privacy, machine unlearning, federated learning, zero knoweldge proof
+- **Privacy-enhancing techniques:** synthetic data generation, differential privacy, machine unlearning, federated learning, zero-knowledge proof
+- **Trust and robust AI:** fairness and explainability in AI, Adversarial machine learning, uncertainty in machine learning
+  
 
 > 🚀 **If you see our research intersect, feel free to reach out — I am always open to discussing potential collaborations.**
 
