@@ -81,7 +81,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-    <img src="/assets/img/default_pub.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;">
+    <img src="/assets/img/xai.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;">
     <div style="position:absolute; top:5px; left:5px; background-color:rgba(0,0,0,0.6); color:#fff; font-size:12px; padding:2px 5px; border-radius:3px;">5</div>
     <abbr class="badge">EDUCON</abbr>
   </div>
@@ -105,7 +105,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-    <img src="/assets/img/bjet.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;">
+    <img src="/assets/img/edu.png" class="teaser img-fluid z-depth-1" style="width:100%; height:60%; object-fit: cover;">
     <div style="position:absolute; top:5px; left:5px; background-color:rgba(0,0,0,0.6); color:#fff; font-size:12px; padding:2px 5px; border-radius:3px;">6</div>
     <abbr class="badge">EPR</abbr>
   </div>
