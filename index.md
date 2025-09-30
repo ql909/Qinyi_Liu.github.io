@@ -23,4 +23,7 @@ I'm a Ph.D. candidate from the Centre for the science of learning & technology, 
 ## Teaching {#teaching}
 {% include teaching.md %}
 
+## Funding & Awards {#funding-awards}
+{% include funding-awards.md %}
+
 {% include_relative _includes/services.md %}
