@@ -4,9 +4,10 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm Qinyi Liu. I am a PhD Candidate in the Centre for the Science of Learning & Technology (SLATE) at Univerisity of Bergen, working with Prof. Mohammad Khalil. 
+Hi! I'm Qinyi Liu. I am a PhD Candidate in the Centre for the Science of Learning & Technology (SLATE) at Univerisity of Bergen, working with Prof. Mohammad Khalil. During my PhD period, I also visited the University of South Australia and Monash University as a visiting scholar funded by Meltzerfondet. 
 
-Prior to that, I obtained MSc in Social Research and MSc in Computer Science from the University of Edinburgh and Liverpool. During my time at Edinburgh, I was part of the [Covid-19 Response Governance Mapping Project](https://efi.ed.ac.uk/covid-19-response-governance-mapping/). I also worked at the University of North Carolina at Chapel Hill with [Joseph Tucker](https://www.med.unc.edu/medicine/infdis/people/joseph-tucker-md-phd/), where I contributed to website development and research dissemination. Previously, I received my Bachelor's degree from Chongqing University.
+
+I have an interdisciplinary background in computer science and social science, holding degrees in both fields. I pursued my master's studies at the University of Edinburgh and the University of Liverpool. Previously, I received my Bachelor's degree from Chongqing University and a Postgraduate Certificate in Cybersecurity from UCLA. During my time at Edinburgh, I was part of the [Covid-19 Response Governance Mapping Project](https://efi.ed.ac.uk/covid-19-response-governance-mapping/). I also worked at the University of North Carolina at Chapel Hill with [Joseph Tucker](https://www.med.unc.edu/medicine/infdis/people/joseph-tucker-md-phd/), where I contributed to website development and research dissemination. 
 
 
 ## Research Interests
