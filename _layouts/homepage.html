@@ -32,17 +32,25 @@
     {% endif %}
   </head>
   <body>
-    <!-- 新增的导航栏：固定右上角，匹配 Minimal Light 主题风格 -->
-<nav id="top-nav" style="position: fixed; top: 20px; right: 20px; z-index: 1000; background: rgba(255, 255, 255, 0.95); padding: 10px 16px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); font-family: inherit; font-size: 1rem;">
+    <!-- 新增的导航栏：固定右上角，带淡蓝色背景和 hover 动画 -->
+<nav id="top-nav" style="position: fixed; top: 20px; right: 20px; z-index: 1000; background: rgba(173, 216, 230, 0.9); padding: 10px 16px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); font-family: inherit; font-size: 1rem;">
   <ul style="list-style: none; margin: 0; padding: 0; display: flex; gap: 24px; align-items: center;">
-    <li><a href="#about-me" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.2s;">About</a></li>
-    <li><a href="#research-interests" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.2s;">Research Interests</a></li>
-    <li><a href="#publications" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.2s;">Publications</a></li>
-    <li><a href="#funding-awards" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.2s;">Funding & Awards</a></li>
-    <li><a href="#teaching" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.2s;">Teaching</a></li>
-    <li><a href="#services" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.2s;">Services</a></li>
+    <li><a href="#about-me" class="nav-link" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.3s;">About</a></li>
+    <li><a href="#research-interests" class="nav-link" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.3s;">Research Interests</a></li>
+    <li><a href="#publications" class="nav-link" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.3s;">Publications</a></li>
+    <li><a href="#funding-awards" class="nav-link" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.3s;">Funding & Awards</a></li>
+    <li><a href="#teaching" class="nav-link" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.3s;">Teaching</a></li>
+    <li><a href="#services" class="nav-link" style="text-decoration: none; color: #1a237e; font-weight: 500; transition: color 0.3s;">Services</a></li>
   </ul>
 </nav>
+
+<!-- Hover 动画效果 -->
+<style>
+  #top-nav .nav-link:hover {
+    color: #0d47a1; /* 鼠标经过变亮的深蓝色 */
+  }
+</style>
+
 
     <div class="wrapper">
       <header>
