@@ -1,4 +1,4 @@
-<h2 id="teaching">Teaching</h2>
+<h4 id="teaching">Teaching</h4>
 
 <ul class="teaching-list">
   <li>
@@ -18,7 +18,7 @@
   </li>
 </ul>
 
-<h2 id="mentoring">Mentoring</h2>
+<h4 id="mentoring">Mentoring</h4>
 
 <ul class="mentoring-list">
   <li>
