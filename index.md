@@ -12,8 +12,8 @@ Prior to that, I obtained MSc in Social Research and MSc in Computer Science fro
 ## Research Interests
 My research interests are mainly in privacy-enhancing technology (PET) + learning analytics, aiming to utilizing state-of-arts privacy-enhancing technology to advance trustworthy AI for education, with a focus on develop and fine-tune domain specific PET for application.
 
-- **AI for education:** image recognition, image generation, video captioning
-- **Privacy enhancing techniques:** meta-learning, incremental learning, transfer learning
+- **AI for education:** learning analytics, knowledge tracing, adaptive learning system
+- **Privacy enhancing techniques:** synthetic data generation, differential privacy, machine unlearning, federated learning, zero knoweldge proof
 
 
 {% include_relative _includes/publications.md %}
