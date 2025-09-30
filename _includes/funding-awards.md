@@ -1,4 +1,4 @@
-## Funding & Awards
+
 
 <h4 id="fundings">Fundings</h4>
 <ul class="funding-list">
