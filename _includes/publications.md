@@ -72,6 +72,7 @@
       <div class="periodical"><em>Proceedings of the 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
     <div class="links">
       <a href="#" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+      <strong> <i style="color:#e74d3c">[29% acceptance rate] [CORE-A]</i></strong>
     </div>
   </div>
 </div>
