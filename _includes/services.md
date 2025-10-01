@@ -25,7 +25,6 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.ieee.org/publications/transactions-on-information-forensics-and-security.html"><autocolor>Transactions on Information Forensics & Security</autocolor></a>, 2025</li>
-</ul>
   <li><a href="https://www.springer.com/journal/43681"><autocolor>AI and Ethics</autocolor></a>, 2025</li>
   <li><a href="https://journalofbigdata.springeropen.com/"><autocolor>Journal of Big Data</autocolor></a>, 2025</li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206/"><autocolor>Transactions on Information Forensics & Security</autocolor></a>, 2025</li>
@@ -38,5 +37,7 @@
   <li><a href="https://www.frontiersin.org/journals/education"><autocolor>Frontiers in Education</autocolor></a>, 2023</li>
   <li><a href="https://i-jet.org/"><autocolor>International Journal of Emerging Technologies in Learning (iJET)</autocolor></a>, 2023</li>
   <li><a href="https://bera-journals.onlinelibrary.wiley.com/journal/14678535"><autocolor>British Journal of Educational Technology</autocolor></a>, 2023</li>
+</ul>
+
   
   
