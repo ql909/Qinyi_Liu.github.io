@@ -12,11 +12,13 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 5px;">
+  <li><a href="https://www.solaresearch.org/events/lak/lak26/"><autocolor>International Conference Learning Analytics and Knowledge (LAK)</autocolor></a>, 2026</li>
+  <li><a href="https://www.solaresearch.org/events/lak/lak25/"><autocolor>International Conference Learning Analytics and Knowledge (LAK)</autocolor></a>, 2025</li>
+  <li><a href="https://mindtrek.org/"><autocolor>Mindtrek</autocolor></a>, 2025</li>
+  <li><a href="https://icmi.acm.org/2025/"><autocolor>ACM International Conference on Multimodal Interaction (ICMI)</autocolor></a>, 2025</li>
   <li><a href="https://aied2024.org/"><autocolor>International Conference on Artificial Intelligence in Education (AIED)</autocolor></a>, 2024</li>
   <li><a href="https://2024.learningsciencesinternational.org/"><autocolor>International Conference Learning Analytics and Knowledge (LAK)</autocolor></a>, 2024</li>
   <li><a href="https://neurips.cc/Conferences/2023/Workshops"><autocolor>NeurIPS’23 Workshop on Generative AI for Education</autocolor></a>, 2023</li>
-  <li><a href="https://mindtrek.org/"><autocolor>Mindtrek</autocolor></a>, 2025</li>
-  <li><a href="https://icmi.acm.org/2025/"><autocolor>ACM International Conference on Multimodal Interaction (ICMI)</autocolor></a>, 2025</li>
   <li><a href="https://i-jet.org/"><autocolor>International Journal of Emerging Technologies in Learning (iJET)</autocolor></a>, 2023</li>
 </ul>
 
