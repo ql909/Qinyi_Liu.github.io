@@ -2,7 +2,7 @@
 
 <ul class="teaching-list">
   <li>
-    <autocolor>Co-instructor, Generative AI for Synthetic Data: Applications in Machine Learning, Norwegian Artificial Intelligence Research Consortium Summer School</autocolor>, 2025
+    <autocolor>Co-instructor, <a href="https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2025/" target="_blank">Generative AI for Synthetic Data: Applications in Machine Learning, Norwegian Artificial Intelligence Research Consortium Summer School</a>, 2025</autocolor>
   </li>
   <li>
     <autocolor>Co-instructor, IGSIN919V Introduction to Practical Machine Learning, University of Bergen</autocolor>, 2025
