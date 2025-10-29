@@ -30,3 +30,5 @@ My research interests are mainly in privacy-enhancing technology (PET) + learnin
 {% include funding-awards.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/Open Source Projects.md %}
