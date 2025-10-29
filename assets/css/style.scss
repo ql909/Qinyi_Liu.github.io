@@ -2,3 +2,22 @@
 ---
 
 @import "minimal-light";
+
+@import "minimal-light";
+
+
+header {
+  position: fixed;        
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;            
+  background-color: #fff;  
+  padding: 20px 0;          
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 可选，增加分隔感 */
+}
+
+/* 给正文 Section 留出空间，避免被 Header 遮挡 */
+section {
+  margin-top: 220px;         /* 根据 header 高度调整 */
+}
