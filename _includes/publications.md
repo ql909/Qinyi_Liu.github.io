@@ -117,5 +117,16 @@
 </li>
 </ol>
 
-     
+### Open Source Projects
+<ol class="bibliography" style="list-style-type: decimal; padding-left: 20px;">
+<li>
+  <div class="title"><a href="https://github.com/ql909/awesome-synthetic-data-education" target="_blank">Awesome Synthetic Data Application Education</a></div>
+  <div class="author"><strong>Qinyi Liu</strong></div>
+  <div class="periodical"><em>Curated list of resources and papers for synthetic data application in education</em></div>
+  <div class="links">
+    <a href="https://github.com/ql909/awesome-synthetic-data-education" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">GitHub</a>
+  </div>
+</li>
+</ol>
+
 
