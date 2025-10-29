@@ -31,217 +31,141 @@
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
 
-    <!-- 新增：右侧垂直导航栏样式 -->
+    <!-- ==================== 方案 2：右侧极窄垂直导航 ==================== -->
     <style>
-      /* 右侧固定垂直导航栏 */
-      #right-nav {
+      /* 右侧极窄导航：紧贴右边，宽度 120px，文字竖排 */
+      #side-nav {
         position: fixed;
-        right: 20px;
-        top: 20px;
-        width: 220px;
-        z-index: 1000;
-        text-align: center;
-        font-family: inherit;
-      }
-
-      #right-nav .avatar {
-        margin: 0 auto 20px;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
         width: 120px;
-        height: 120px;
-        border-radius: 50%;
-        overflow: hidden;
-        box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-        transition: transform 0.3s ease;
-      }
-
-      #right-nav .avatar img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-      }
-
-      #right-nav .avatar:hover {
-        transform: scale(1.05);
-      }
-
-      #right-nav .nav-menu {
-        list-style: none;
-        margin: 0;
-        padding: 0;
+        padding: 20px 8px;
+        background: rgba(173, 216, 230, 0.94);
+        border-radius: 8px 0 0 8px;
+        box-shadow: -2px 2px 8px rgba(0,0,0,0.1);
+        text-align: center;
+        font-size: 0.9rem;
         display: flex;
         flex-direction: column;
-        gap: 10px;
+        gap: 16px;
+        z-index: 1000;
       }
 
-      #right-nav .nav-link {
-        display: block;
-        padding: 12px 16px;
-        background: rgba(173, 216, 230, 0.9);
-        border: 1px solid rgba(26, 35, 126, 0.2);
-        border-radius: 8px;
+      #side-nav .nav-link {
         color: #1a237e;
         font-weight: 500;
-        font-size: 0.95rem;
         text-decoration: none;
-        transition: all 0.3s ease;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        writing-mode: vertical-rl;
+        white-space: nowrap;
+        transition: color 0.3s;
       }
 
-      #right-nav .nav-link:hover {
-        background: #0d47a1;
-        color: white;
-        transform: translateX(-6px);
-        box-shadow: 0 6px 20px rgba(13, 71, 161, 0.3);
+      #side-nav .nav-link:hover {
+        color: #0d47a1;
       }
 
-      #right-nav .nav-link.active {
-        background: #0d47a1;
-        color: white;
+      /* 正文留出右侧空间，避免被导航遮挡 */
+      .wrapper section {
+        margin-right: 130px !important;
+        padding-right: 20px;
+      }
+
+      /* 小屏隐藏导航，内容占满 */
+      @media (max-width: 960px) {
+        #side-nav {
+          display: none;
+        }
+        .wrapper section {
+          margin-right: 0 !important;
+          padding-right: 20px;
+        }
       }
 
       /* 暗黑模式适配 */
       @media (prefers-color-scheme: dark) {
-        #right-nav .nav-link {
-          background: rgba(62, 183, 240, 0.2);
-          border-color: rgba(62, 183, 240, 0.3);
-          color: #3eb7f0;
+        #side-nav {
+          background: rgba(30, 50, 70, 0.95);
         }
-        #right-nav .nav-link:hover {
-          background: #3eb7f0;
-          color: #20212b;
-          box-shadow: 0 6px 20px rgba(62, 183, 240, 0.4);
+        #side-nav .nav-link {
+          color: #bbdefb;
         }
-      }
-
-      /* 内容区留出右侧空间 */
-      .wrapper {
-        margin-right: 260px; /* 导航栏宽度 + 间距 */
-        min-height: 100vh;
-      }
-
-      /* 响应式：手机端导航移到顶部横向 */
-      @media (max-width: 960px) {
-        #right-nav {
-          position: static;
-          width: auto;
-          margin: 20px auto;
-          display: flex;
-          flex-direction: row;
-          justify-content: center;
-          align-items: center;
-          gap: 20px;
-          flex-wrap: wrap;
-        }
-        #right-nav .avatar {
-          width: 80px;
-          height: 80px;
-          margin: 0 0 10px 0;
-        }
-        #right-nav .nav-menu {
-          flex-direction: row;
-          gap: 8px;
-        }
-        #right-nav .nav-link {
-          padding: 8px 14px;
-          font-size: 0.9rem;
-          min-width: 100px;
-        }
-        .wrapper {
-          margin-right: 0 !important;
-        }
-      }
-
-      @media (max-width: 480px) {
-        #right-nav .nav-link {
-          padding: 6px 12px;
-          font-size: 0.85rem;
-          min-width: 80px;
-        }
-        #right-nav .avatar {
-          width: 60px;
-          height: 60px;
+        #side-nav .nav-link:hover {
+          color: #90caf9;
         }
       }
     </style>
   </head>
   <body>
-    <!-- 右侧垂直导航栏 -->
-    <nav id="right-nav">
-      {% if site.avatar %}
-      <div class="avatar">
-        <img src="{{ site.avatar }}" alt="avatar" />
-      </div>
-      {% endif %}
-      <ul class="nav-menu">
-        <li><a href="#about-me" class="nav-link">About</a></li>
-        <li><a href="#research-interests" class="nav-link">Research Interests</a></li>
-        <li><a href="#publications" class="nav-link">Publications</a></li>
-        <li><a href="#funding-awards" class="nav-link">Funding & Awards</a></li>
-        <li><a href="#teaching" class="nav-link">Teaching</a></li>
-        <li><a href="#services" class="nav-link">Services</a></li>
-      </ul>
+
+    <!-- 右侧垂直导航栏（极窄，文字竖排） -->
+    <nav id="side-nav">
+      <a href="#about-me" class="nav-link">About</a>
+      <a href="#research-interests" class="nav-link">Research Interests</a>
+      <a href="#publications" class="nav-link">Publications</a>
+      <a href="#funding-awards" class="nav-link">Funding & Awards</a>
+      <a href="#teaching" class="nav-link">Teaching</a>
+      <a href="#services" class="nav-link">Services</a>
     </nav>
 
     <div class="wrapper">
-      <!-- 原有的 header 改为内容顶部信息 -->
-      <header style="text-align: center; padding: 40px 0 20px; max-width: 800px; margin: 0 auto;">
-        <h1 style="margin: 0 0 10px; font-size: 2.2rem;">{{ site.title }}</h1>
+      <header>
+        {% if site.avatar %}
+        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        {% endif %}
+        <h1>{{ site.title }}</h1>
         {% if site.position %}
-        <p style="margin: 0 0 8px; font-size: 1.1rem; color: #666;">{{ site.position }}</p>
+        <position style="font-size:1.10rem;">{{ site.position }}</position>
+        <br>
         {% endif %}
         {% if site.affiliation %}
-        <p style="margin: 0 0 12px; font-size: 1rem;">
-          <a href="{{ site.affiliation_link }}" rel="noopener"><strong>{{ site.affiliation }}</strong></a>
-        </p>
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <br>
         {% endif %}
         {% if site.email %}
-        <p style="margin: 0 0 20px; font-family: 'Ubuntu Mono', monospace; font-size: 0.95rem; color: #595959;">
-          📧 {{ site.email }}
-        </p>
+        <email>{{ site.email }}</email>
         {% endif %}
-        <!-- 社交图标 -->
-        <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-          {% if site.google_scholar %}
-          <a href="{{ site.google_scholar }}" style="color: #4285f4; font-size: 1.3rem; transition: transform 0.3s;">
-            <i class="ai ai-google-scholar"></i>
-          </a>
-          {% endif %}
-          {% if site.cv_link %}
-          <a href="{{ site.cv_link }}" style="color: #ff6f00; font-size: 1.3rem; transition: transform 0.3s;">
-            <i class="ai ai-cv"></i>
-          </a>
-          {% endif %}
-          {% if site.github_link %}
-          <a href="{{ site.github_link }}" style="color: #333; font-size: 1.3rem; transition: transform 0.3s;">
-            <i class="fab fa-github"></i>
-          </a>
-          {% endif %}
-          {% if site.linkedin %}
-          <a href="{{ site.linkedin }}" style="color: #0077b5; font-size: 1.3rem; transition: transform 0.3s;">
-            <i class="fab fa-linkedin"></i>
-          </a>
-          {% endif %}
-          {% if site.twitter %}
-          <a href="{{ site.twitter }}" style="color: #1da1f2; font-size: 1.3rem; transition: transform 0.3s;">
-            <i class="fab fa-x-twitter"></i>
-          </a>
-          {% endif %}
+        <br>
+        <br>
+        <div class="social-icons">
+        {% if site.google_scholar %}
+        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
+          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+        </a>
+        {% endif %}
+        {% if site.cv_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
+          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+        </a>
+        {% endif %}
+        {% if site.github_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
+          <i class="fab fa-github"></i>
+        </a>
+        {% endif %}
+        {% if site.linkedin %}
+        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        {% endif %}
+        {% if site.twitter %}
+        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
+          <i class="fab fa-x-twitter"></i>
+        </a>
+        {% endif %}
         </div>
+        <br>
       </header>
 
-      <section style="max-width: 800px; margin: 0 auto;">
+      <section>
         {{ content }}
         <br>
         {% if site.enable_footnote %}
-        <p style="text-align: center; color: #999; font-size: 0.85rem;">
-          <small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small>
-        </p>
+        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
         {% endif %}
       </section>
 
-      <footer style="text-align: center; padding: 40px 0; color: #999; font-size: 0.9rem; max-width: 800px; margin: 0 auto;">
-        &copy; {{ site.title }}. All rights reserved.
-      </footer>
+      <footer></footer>
     </div>
 
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
@@ -255,18 +179,5 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
-
-    <!-- 平滑滚动 -->
-    <script>
-      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function (e) {
-          e.preventDefault();
-          const target = document.querySelector(this.getAttribute('href'));
-          if (target) {
-            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-          }
-        });
-      });
-    </script>
   </body>
 </html>
