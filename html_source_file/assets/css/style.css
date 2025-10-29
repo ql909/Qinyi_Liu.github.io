@@ -205,66 +205,84 @@ th { color: #444; }
 
 img { max-width: 100%; }
 
-/* ==================== 右侧垂直导航栏 ==================== */
+/* ==================== 极窄右侧垂直导航 ==================== */
 header {
-  width: 220px;
   position: fixed;
-  right: 20px;
-  top: 4.0em;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 80px;
+  padding: 18px 6px;
+  background: rgba(173, 216, 230, 0.95);
+  border-radius: 12px 0 0 12px;
+  box-shadow: -3px 0 12px rgba(0,0,0,0.1);
   text-align: center;
-  z-index: 100;
+  font-size: 0.78rem;
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  z-index: 1000;
+  transition: all 0.3s ease;
 }
 
-header .image.avatar {
-  margin: 0 auto 1.5em;
+header:hover {
+  width: 90px;
+  background: rgba(173, 216, 230, 1);
 }
 
 header nav {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 18px;
 }
 
 header nav a {
-  display: block;
-  padding: 10px 15px;
-  background: #f4f4f4;
-  border: 1px solid #e0e0e0;
-  border-radius: 6px;
-  color: #555;
-  font-size: 14px;
-  font-weight: 500;
+  color: #1a237e;
   text-decoration: none;
-  transition: all 0.3s ease;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  white-space: nowrap;
+  transition: color 0.3s;
+  line-height: 1.4;
 }
 
 header nav a:hover {
-  background: #043361;
-  color: white;
-  transform: translateX(-4px);
+  color: #0d47a1;
 }
 
-header nav a:active {
-  background: #033050;
-}
-
-@media (prefers-color-scheme: dark) {
-  header nav a {
-    background: #2a2b38;
-    border-color: #444;
-    color: #bbb;
-  }
-  header nav a:hover {
-    background: #3eb7f0;
-    color: #20212b;
-  }
-}
-
-/* 内容区留出右侧空间 */
+/* 内容区留出 90px 右侧空间 */
 section {
-  margin-right: 270px;
+  margin-right: 90px !important;
   padding: 4.0em 40px 50px 20px;
   max-width: 800px;
+}
+
+/* 小屏隐藏导航 */
+@media screen and (max-width: 960px) {
+  header {
+    display: none;
+  }
+  section {
+    margin-right: 0 !important;
+    padding: 20px 0;
+  }
+}
+
+/* 暗黑模式 */
+@media (prefers-color-scheme: dark) {
+  header {
+    background: rgba(30, 50, 70, 0.95);
+  }
+  header:hover {
+    background: rgba(30, 50, 70, 1);
+  }
+  header nav a {
+    color: #bbdefb;
+  }
+  header nav a:hover {
+    color: #90caf9;
+  }
 }
 
 footer {
@@ -289,50 +307,6 @@ hr {
   background: #e5e5e5;
   height: 1px;
   margin: 0 0 20px;
-}
-
-/* ==================== 响应式 ==================== */
-@media screen and (max-width: 960px) {
-  header, section, footer {
-    position: static;
-    width: auto;
-    margin: 0 auto;
-  }
-  header {
-    right: auto;
-    top: auto;
-    max-width: 600px;
-    margin-bottom: 2em;
-  }
-  header nav {
-    flex-direction: row;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-  header nav a {
-    flex: 1;
-    min-width: 100px;
-    margin: 4px;
-  }
-  section {
-    margin-right: 0 !important;
-    padding: 20px 0;
-    border-top: 1px solid #e5e5e5;
-    border-bottom: 1px solid #e5e5e5;
-  }
-  footer {
-    position: static;
-    width: 100%;
-    padding: 20px 0;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  header nav a {
-    font-size: 13px;
-    padding: 8px 10px;
-    min-width: 80px;
-  }
 }
 
 .biblink {
@@ -369,4 +343,3 @@ hr {
     color: #ccc;
   }
 }
-
