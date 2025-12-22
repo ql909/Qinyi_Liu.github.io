@@ -8,11 +8,8 @@
   <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
   <div class="links">
   <a href="10.1145/3785022.3785036" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <span style="margin: 0 8px; color: #666;">|</span>  <a href="https://github.com/ql909/data-poison-attack-in-adaptive-learning-system"
-     class="btn btn-sm z-depth-0"
-     target="_blank"
-     style="font-size:12px;">Code</a>
-  </div>
+  <span style="margin: 0 8px; color: #666;">|</span>
+  <a href="https://github.com/ql909/data-poison-attack-in-adaptive-learning-system" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Codes</a>
     <strong> <i style="color:#e74d3c">[Accepted] [28% acceptance rate] [CORE-A]</i></strong>
   </div>
 </li>
