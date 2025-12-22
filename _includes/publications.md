@@ -1,6 +1,3 @@
-
-## Publications {#publications}
-
 ## Publications {#publications}
 ### Conference Papers
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
@@ -149,4 +146,4 @@
     <a href="https://github.com/ql909/awesome-synthetic-data-education" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">GitHub</a>
   </div>
 </li>
-</ol>
+</ol> 
