@@ -34,6 +34,7 @@
   <div class="periodical"><em>LAK25: 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1145/3706468.3706546" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+    <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak25_fairness%20presentation.pptx" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Slides</a>
     <strong> <i style="color:#e74d3c">[29% acceptance rate] [CORE-A]</i></strong>
   </div>
 </li>
