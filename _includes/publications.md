@@ -1,7 +1,7 @@
 ## Publications {#publications}
 
 ### Conference Papers
-<ol class="bibliography" style="list-style-type: decimal; padding-left: 20px;">
+<ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
 <li>
   <div class="title">Measuring the Impact of Student Gaming Behaviors on Learner Modeling</div>
   <div class="author">Qinyi Liu, Ling Li, Vojtěch Švábenský, Christian Borchers, Mohammad Khalil</div>
