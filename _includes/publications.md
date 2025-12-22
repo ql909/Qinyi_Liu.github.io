@@ -3,6 +3,23 @@
 ### Conference Papers
 <ol class="bibliography" style="list-style-type: decimal; padding-left: 20px;">
 <li>
+  <div class="title">Measuring the Impact of Student Gaming Behaviors on Learner Modeling</div>
+  <div class="author">Qinyi Liu, Ling Li, Vojtěch Švábenský, Christian Borchers, Mohammad Khalil</div>
+  <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
+  <div class="links">
+  <a href="10.1145/3785022.3785036" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+    <strong> <i style="color:#e74d3c">[Accepted] [28% acceptance rate] [CORE-A]</i></strong>
+  </div>
+</li>
+<li>
+  <div class="title">Brief but Impactful: How Human Tutoring Interactions Shape Engagement in Online Learning</div>
+  <div class="author">Christian Borchers, Anupam Gurung, <strong>Qinyi Liu</strong>, Daniel Thomas, Mohammad Khalil, Kenneth Koedinger</div>
+  <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
+  <div class="links">
+    <strong> <i style="color:#e74d3c">[Accepted] [28% acceptance rate] [CORE-A]</i></strong>
+  </div>
+</li>
+<li>
   <div class="title"><a href="https://doi.org/10.1145/3706468.3706493">Advancing privacy in learning analytics using differential privacy</a></div>
   <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil, Ronas Shakya, Jelena Jovanovic</div>
   <div class="periodical"><em>LAK25: 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
