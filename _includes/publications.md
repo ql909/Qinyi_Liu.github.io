@@ -4,7 +4,7 @@
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
 <li>
   <div class="title">Measuring the Impact of Student Gaming Behaviors on Learner Modeling</div>
-  <div class="author">**<u>Qinyi Liu</u>**, Lin Li, Valdemar Švábenský, Christian Borchers, Mohammad Khalil</div>
+  <div class="author"><strong>Qinyi Liu</strong>, Lin Li, Valdemar Švábenský, Christian Borchers, Mohammad Khalil</div>
   <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
   <div class="links">
   <a href="10.1145/3785022.3785036" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
