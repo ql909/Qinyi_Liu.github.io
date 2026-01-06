@@ -1,5 +1,5 @@
-## Publications {#publications}
-### Conference Papers
+##  Publications {#publications}
+### Peer-Reviewed Conference Papers
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
 <li>
   <div class="title">
