@@ -59,7 +59,7 @@
     <a href="https://doi.org/10.1145/3706468.3706546" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
     <span style="margin: 0 8px; color: #666;">|</span>
     <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak25_fairness%20presentation.pptx" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Slides</a>
-    <strong> <style="color:#e74d3c">[29% acceptance rate] [CORE-A] </strong>
+    <strong style="color:#e74d3c">[29% acceptance rate] [CORE-A] </strong>
   </div>
 </li>
 <li>
@@ -76,7 +76,7 @@
   <div class="periodical"><em>LAK25: 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1145/3636555.3636921" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <style="color:#e74d3c">[29% acceptance rate] [CORE-A] </strong>
+    <strong style="color:#e74d3c">[29% acceptance rate] [CORE-A] </strong>
   </div>
 </li>
 <li>
@@ -87,7 +87,7 @@
     <a href="https://doi.org/10.1145/3636555.3636921" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
     <span style="margin: 0 8px; color: #666;">|</span>
     <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak_presentation_2024.pptx" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Slides</a>
-    <strong> <style="color:#e74d3c">[30% acceptance rate] [CORE-A] </strong>
+    <strong style="color:#e74d3c">[30% acceptance rate] [CORE-A] </strong>
   </div>
 </li>
 <li>
@@ -107,7 +107,7 @@
   <div class="periodical"><em>Educational Psychology Review</em> (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1007/s10648-025-10046-y" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <style="color:#e74d3c">[IF=10.1] [SSCI] </strong>
+    <strong style="color:#e74d3c">[IF=10.1] [SSCI] </strong>
   </div>
 </li>
 <li>
@@ -116,7 +116,7 @@
   <div class="periodical"><em>British Journal of Educational Technology</em>, 00, 1–21 (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1111/bjet.13576" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
+    <strong style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
   </div>
 </li>
 <li>
