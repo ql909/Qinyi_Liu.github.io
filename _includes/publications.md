@@ -56,9 +56,25 @@
   <div class="author"><strong>Qinyi Liu</strong>, Oscar Deho, Farzad Vadiee, Mohammad Khalil, Srecko Joksimovic, George Siemens</div>
   <div class="periodical"><em>LAK25: 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
   <div class="links">
-    <a href="https://doi.org/10.1145/3706468.3706546" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+    <a href="https://doi.org/10.1145/3706468.3706546"
+       class="btn btn-sm z-depth-0"
+       target="_blank"
+       style="font-size:12px;">DOI</a>
+
     <span style="margin: 0 8px; color: #666;">|</span>
-    <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak25_fairness%20presentation.pptx" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Slides</a>
+
+    <a href="https://github.com/DEHO-OSCAR-BLESSED/LAK25-Fairness_and_Privacy"
+       class="btn btn-sm z-depth-0"
+       target="_blank"
+       style="font-size:12px;">Codes</a>
+
+    <span style="margin: 0 8px; color: #666;">|</span>
+
+    <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak25_fairness%20presentation.pptx"
+       class="btn btn-sm z-depth-0"
+       target="_blank"
+       style="font-size:12px;">Slides</a>
+
     <strong style="color:#e74d3c">[29% acceptance rate] [CORE-A] </strong>
   </div>
 </li>
