@@ -48,7 +48,7 @@
     <a href="https://doi.org/10.1145/3706468.3706493" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
     <span style="margin: 0 8px; color: #666;">|</span>
     <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/Presentation_lak.pptx" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Slides</a>
-    <strong> <style="color:#e74d3c">[29% acceptance rate] [Best Paper Honorable Mention] [CORE-A] </strong>
+    <strong style="color:#e74d3c">[29% acceptance rate] [Best Paper Honorable Mention] [CORE-A] </strong>
   </div>
 </li>
 <li>
@@ -134,7 +134,7 @@
   <div class="periodical"><em>British Journal of Educational Technology</em>, 54, 1715–1747 (2023)</div>
   <div class="links">
     <a href="https://doi.org/10.1111/bjet.13388" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
+    <strong style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
   </div>
 </li>
 </ol>
@@ -146,7 +146,7 @@
   <div class="periodical"><em>British Journal of Educational Technology</em> (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1111/bjet.13580" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
+    <strong style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
   </div>
 </li>
 <li>
