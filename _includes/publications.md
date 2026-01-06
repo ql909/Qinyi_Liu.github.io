@@ -105,7 +105,7 @@
   <div class="periodical"><em>Educational Psychology Review</em> (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1007/s10648-025-10046-y" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <i style="color:#e74d3c">[IF=10.1] [SSCI]</i></strong>
+    <strong> <style="color:#e74d3c">[IF=10.1] [SSCI] </strong>
   </div>
 </li>
 <li>
@@ -114,7 +114,7 @@
   <div class="periodical"><em>British Journal of Educational Technology</em>, 00, 1–21 (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1111/bjet.13576" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <i style="color:#e74d3c">[IF=6.7] [SSCI]</i></strong>
+    <strong> <style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
   </div>
 </li>
 <li>
@@ -123,7 +123,7 @@
   <div class="periodical"><em>Frontiers in Psychology</em>, 15 (2024)</div>
   <div class="links">
     <a href="https://doi.org/10.3389/fpsyg.2024.1302658" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <i style="color:#e74d3c">[IF=3.8] [SSCI]</i></strong>
+    <strong> <style="color:#e74d3c">[IF=3.8] [SSCI] </strong>
   </div>
 </li>
 <li>
@@ -132,7 +132,7 @@
   <div class="periodical"><em>British Journal of Educational Technology</em>, 54, 1715–1747 (2023)</div>
   <div class="links">
     <a href="https://doi.org/10.1111/bjet.13388" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <i style="color:#e74d3c">[IF=6.7] [SSCI]</i></strong>
+    <strong> <style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
   </div>
 </li>
 </ol>
@@ -144,7 +144,7 @@
   <div class="periodical"><em>British Journal of Educational Technology</em> (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1111/bjet.13580" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <i style="color:#e74d3c">[IF=6.7] [SSCI]</i></strong>
+    <strong> <style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
   </div>
 </li>
 <li>
