@@ -3,7 +3,7 @@
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
 <li>
   <div class="title">Quality Degradation Attack in Synthetic Data</div>
-  <div class="author"><strong>Qinyi Liu</strong><sup>1⋆</sup>, Dong Liu<sup>2⋆⋆</sup>, Farhad Vadiee<sup>1⋆⋆⋆</sup>, Mohammad Khalil<sup>1†</sup>, and Pedro P. Vergara Barrios<sup>2‡</sup></div>
+  <div class="author"><strong>Qinyi Liu</strong>, Dong Liu, Farhad Vadiee, Mohammad Khalil, and Pedro P. Vergara Barrios</div>
   <div class="periodical"><em>International Conference on Data Science and AI for Social Good and Responsible Innovation (DASGRI-2026)</em>, Springer</div>
   <div class="links">
     <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/Springer_Lecture_Notes_in_Computer_Science%20(4)-1.pdf" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">PDF</a>
