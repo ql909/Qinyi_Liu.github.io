@@ -35,12 +35,17 @@
   </div>
 </li>
 <li>
-  <div class="title"><a href="https://doi.org/10.1145/3706468.3706493">Advancing privacy in learning analytics using differential privacy</a></div>
+  <div class="title">
+    <a href="https://doi.org/10.1145/3706468.3706493" target="_blank">
+      Advancing privacy in learning analytics using differential privacy
+    </a>
+  </div>
   <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil, Ronas Shakya, Jelena Jovanovic</div>
   <div class="periodical"><em>LAK25: 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1145/3706468.3706493" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <i style="color:#e74d3c">[29% acceptance rate] [Best Paper Honorable Mention] [CORE-A]</i></strong>
+    <span style="margin: 0 8px; color: #666;">|</span>
+    <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/Presentation_lak.pptx" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Slides</a>
   </div>
 </li>
 <li>
