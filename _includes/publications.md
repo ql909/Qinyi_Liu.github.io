@@ -11,7 +11,8 @@
   <div class="periodical"><em>International Conference on Data Science and AI for Social Good and Responsible Innovation (DASGRI-2026)</em>, Springer</div>
   <div class="links">
     <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/Springer_Lecture_Notes_in_Computer_Science%20(4)-1.pdf" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">PDF</a>
-    <strong> <i style="color:#e74d3c">[Accepted]</i></strong>
+    <span style="margin: 0 8px; color: #666;">|</span>
+    [Accepted]
   </div>
 </li>
 <li>
