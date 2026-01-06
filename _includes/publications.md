@@ -62,7 +62,7 @@
   <span style="margin: 0 8px; color: #666;">|</span>
   <a href="https://github.com/DEHO-OSCAR-BLESSED/LAK25-Fairness_and_Privacy" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Codes</a>
 </div>
-
+<strong style="color:#e74d3c">[29% acceptance rate] [CORE-A] </strong>
 </li>
 <li>
   <div class="title"><a href="https://doi.org/10.1109/ICTCS65341.2025.10989403">Towards Privacy-Preserving Data-Driven Education: the Potential of Federated Learning</a></div>
