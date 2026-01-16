@@ -31,7 +31,7 @@
   <div class="author">Christian Borchers, Anupam Gurung, <strong>Qinyi Liu</strong>, Daniel Thomas, Mohammad Khalil, Kenneth Koedinger</div>
   <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
     <div class="links">
-    <a href="https://arxiv.org/abs/2601.09994" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a> |</span>
+    <a href="https://arxiv.org/abs/2601.09994" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a> |
   <a href="https://github.com/conradborchers/brief-but-impactful-lak26" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Codes</a>
   <strong style="color:#e74d3c">
   [Accepted] [28% acceptance rate] [CORE-A]
