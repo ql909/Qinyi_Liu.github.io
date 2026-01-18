@@ -14,7 +14,7 @@
   <div class="links">
     <!-- <a href="YOUR_PDF_LINK" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">PDF</a>
     <span style="margin: 0 8px; color: #666;">|</span> -->
-    <strong style="color:#e74d3c">[Accepted] [23% acceptance rate] CORE-A | CCF A</strong>
+    <strong style="color:#e74d3c">[Accepted] [23% acceptance rate] CORE-A | CCF-A</strong>
     <br>
     <small> DOI: Coming soon</small>
   </div>
