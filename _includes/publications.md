@@ -145,10 +145,10 @@
   <div class="title"><a href="https://doi.org/10.3389/fpsyg.2024.1302658">Learning analytics for enhanced professional capital development: a systematic review</a></div>
   <div class="author">Javier de La Hoz-Ruiz, Mohammad Khalil, Jesús Domingo Segovia, <strong>Qinyi Liu</strong></div>
   <div class="periodical"><em>Frontiers in Psychology</em>, 15 (2024)</div>
-  <div class="links">
-    <a href="https://doi.org/10.3389/fpsyg.2024.1302658" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong> <style="color:#e74d3c">[IF=3.8] [SSCI] </strong>
-  </div>
+ <div class="links">
+  <a href="https://doi.org/10.3389/fpsyg.2024.1302658" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+  <strong style="color:#e74d3c; margin-left: 10px;">[IF=3.8] [SSCI] </strong>
+</div>
 </li>
 <li>
   <div class="title"><a href="https://doi.org/10.1111/bjet.13388">Understanding privacy and data protection issues in learning analytics using a systematic review</a></div>
