@@ -16,7 +16,7 @@
     <span style="margin: 0 8px; color: #666;">|</span> -->
     [Accepted] – CORE A* | CCF A
     <br>
-    <small>23% acceptance rate) | DOI: Coming soon</small>
+    <small> (23% acceptance rate) | DOI: Coming soon</small>
   </div>
 </li>
 <li>
