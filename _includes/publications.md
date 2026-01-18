@@ -3,6 +3,24 @@
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
 <li>
   <div class="title">
+    <a href="#" target="_blank"> <!-- Replace # with actual PDF or arXiv link later -->
+      Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN
+    </a>
+  </div>
+  <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil, Naman Goel </div> 
+  <div class="periodical">
+    <em>The Web Conference (WWW) Main Papers Track</em>
+  </div>
+  <div class="links">
+    <!-- <a href="YOUR_PDF_LINK" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">PDF</a>
+    <span style="margin: 0 8px; color: #666;">|</span> -->
+    [Accepted] – CORE A* | CCF A
+    <br>
+    <small>23% acceptance rate) | DOI: Coming soon</small>
+  </div>
+</li>
+<li>
+  <div class="title">
     <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/Springer_Lecture_Notes_in_Computer_Science%20(4)-1.pdf" target="_blank">
       Quality Degradation Attack in Synthetic Data
     </a>
