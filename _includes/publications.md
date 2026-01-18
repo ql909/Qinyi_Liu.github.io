@@ -129,7 +129,7 @@
   <div class="periodical"><em>Educational Psychology Review</em> (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1007/s10648-025-10046-y" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong style="color:#e74d3c">[SSCI | IF=10.1] </strong>
+    <strong style="color:#e74d3c"> [IF=10.1] [SSCI] </strong>
   </div>
 </li>
 <li>
