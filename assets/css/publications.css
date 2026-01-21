@@ -78,10 +78,21 @@
   border-color: var(--global-theme-color);
 }
 
-/* 7) IMPORTANT: if you want numbered lists, uncomment these two lines */
-/*
-.publications ol.bibliography{ list-style: decimal; padding-left: 20px; }
-*/
+
+/* Remove blue color from publication titles */
+.publications ol.bibliography li .title a{
+  color: inherit !important;   
+  text-decoration: none;
+}
+
+.publications ol.bibliography li .title a:visited{
+  color: inherit !important;   
+}
+
+.publications ol.bibliography li .title a:hover{
+  text-decoration: underline; 
+}
+
 
 
 
