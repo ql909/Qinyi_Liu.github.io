@@ -103,7 +103,15 @@
     <a href="https://doi.org/10.1145/3706468.3706493" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
     <span style="margin: 0 8px; color: #666;">|</span>
     <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/Presentation_lak.pptx" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Slides</a>
-    <strong style="color:#e74d3c">[29% acceptance rate] [Best Paper Honorable Mention] [CORE-A] </strong>
+  <span style="
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid #ddd;
+  color:#2c3e50;
+  font-size: 0.9em;
+">
+  Accepted · 29% acceptance rate · Best Paper Honorable Mention · CORE-A
+</span>
   </div>
 </li>
 <li>
@@ -133,7 +141,15 @@
   <div class="periodical"><em>LAK25: 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1145/3636555.3636921" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong style="color:#e74d3c">[29% acceptance rate] [CORE-A] </strong>
+<span style="
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid #ddd;
+  color:#2c3e50;
+  font-size: 0.9em;
+">
+  Accepted · 29% acceptance rate · CORE-A
+</span>
   </div>
 </li>
 <li>
@@ -144,7 +160,15 @@
     <a href="https://doi.org/10.1145/3636555.3636921" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
     <span style="margin: 0 8px; color: #666;">|</span>
     <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak_presentation_2024.pptx" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Slides</a>
-    <strong style="color:#e74d3c">[30% acceptance rate] [CORE-A] </strong>
+<span style="
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid #ddd;
+  color:#2c3e50;
+  font-size: 0.9em;
+">
+  Accepted · 30% acceptance rate · CORE-A
+</span>
   </div>
 </li>
 <li>
