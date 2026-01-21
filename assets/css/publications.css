@@ -62,11 +62,19 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
 
-.publications ol.bibliography li .title{
-  font-size: 1.10rem;     
-  line-height: 1.35;
-  font-weight: 600;   
+.publications ol.bibliography li .title a{
+  color: inherit;           
+  text-decoration: none;
 }
+
+.publications ol.bibliography li .title a:hover{
+  text-decoration: underline;
+}
+
+.publications .bibliography .title{
+  font-size: 1.05rem;
+}
+
 
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
