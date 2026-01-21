@@ -80,9 +80,15 @@
     <div class="links">
     <a href="https://arxiv.org/abs/2601.09994" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a> |
   <a href="https://github.com/conradborchers/brief-but-impactful-lak26" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Codes</a>
-  <strong style="color:#e74d3c">
-  [Accepted] [28% acceptance rate] [CORE-A]
-</strong>
+<span style="
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid #ddd;
+  color:#2c3e50;
+  font-size: 0.9em;
+">
+  Accepted · 28% acceptance rate · CORE-A
+</span>
   </div>
 </li>
 <li>
