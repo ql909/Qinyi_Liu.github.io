@@ -25,6 +25,12 @@
 </span>
   </div>
     <small> DOI: Coming soon</small>
+  <div class="links">
+  <a href="https://github.com/ql909/An-Empirical-Study-of-TabPFN"
+     class="pub-link" target="_blank">
+    <i class="fa-brands fa-github"></i> Code
+  </a>
+  </a>
 </li>
 <li>
   <div class="title">
