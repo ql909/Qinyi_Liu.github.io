@@ -53,10 +53,17 @@
     Measuring the Impact of Student Gaming Behaviors on Learner Modeling</a></div>
   <div class="author"><strong>Qinyi Liu</strong>, Lin Li, Valdemar Švábenský, Christian Borchers, Mohammad Khalil</div>
   <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
-  <div class="links">
-    <a href="https://arxiv.org/abs/2512.18659" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-  <span style="margin: 0 8px; color: #666;">|</span>
-  <a href="https://github.com/ql909/data-poison-attack-in-adaptive-learning-system" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Codes</a>
+<div class="links">
+  <a href="https://arxiv.org/abs/2512.18659"
+     class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
+
+
+  <a href="https://github.com/ql909/data-poison-attack-in-adaptive-learning-system"
+     class="pub-link" target="_blank">
+    <i class="fa-brands fa-github"></i> Code
+  </a>
 <span style="
   margin-left: 12px;
   padding-left: 12px;
@@ -76,9 +83,17 @@
 </div>
   <div class="author">Christian Borchers, Anupam Gurung, <strong>Qinyi Liu</strong>, Daniel Thomas, Mohammad Khalil, Kenneth Koedinger</div>
   <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
-    <div class="links">
-    <a href="https://arxiv.org/abs/2601.09994" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a> |
-  <a href="https://github.com/conradborchers/brief-but-impactful-lak26" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Codes</a>
+<div class="links">
+  <a href="https://arxiv.org/abs/2601.09994"
+     class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
+
+
+  <a href="https://github.com/conradborchers/brief-but-impactful-lak26"
+     class="pub-link" target="_blank">
+    <i class="fa-brands fa-github"></i> Code
+  </a>
 <span style="
   margin-left: 12px;
   padding-left: 12px;
@@ -124,11 +139,20 @@
   <div class="author"><strong>Qinyi Liu</strong>, Oscar Deho, Farzad Vadiee, Mohammad Khalil, Srecko Joksimovic, George Siemens</div>
   <div class="periodical"><em>LAK25: 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
 <div class="links">
-  <a href="https://doi.org/10.1145/3706468.3706546" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-  <span style="margin: 0 8px; color: #666;">|</span>
-  <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak25_fairness%20presentation.pptx" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Slides</a>
-  <span style="margin: 0 8px; color: #666;">|</span>
-  <a href="https://github.com/DEHO-OSCAR-BLESSED/LAK25-Fairness_and_Privacy" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Codes</a>
+  <a href="https://doi.org/10.1145/3706468.3706546"
+     class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
+
+  <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak25_fairness%20presentation.pptx"
+     class="pub-link" target="_blank">
+    <i class="fa-regular fa-file-powerpoint"></i> Slides
+  </a>
+
+  <a href="https://github.com/DEHO-OSCAR-BLESSED/LAK25-Fairness_and_Privacy"
+     class="pub-link" target="_blank">
+    <i class="fa-brands fa-github"></i> Code
+  </a>
 <span style="
   margin-left: 12px;
   padding-left: 12px;
@@ -144,16 +168,22 @@
   <div class="title"><a href="https://doi.org/10.1109/ICTCS65341.2025.10989403">Towards Privacy-Preserving Data-Driven Education: the Potential of Federated Learning</a></div>
   <div class="author">Mohammad Khalil, Ronas Shakya, <strong>Qinyi Liu</strong></div>
   <div class="periodical"><em>International Conference on New Trends In Computing Sciences (ICTCS), IEEE Xplore</em> (2025)</div>
-  <div class="links">
-    <a href="https://doi.org/10.1109/ICTCS65341.2025.10989403" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+<div class="links">
+  <a href="https://doi.org/10.1109/ICTCS65341.2025.10989403"
+     class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
   </div>
 </li>
 <li>
   <div class="title"><a href="https://doi.org/10.1145/3636555.3636921">Creating artificial students that never existed: Leveraging large language models and CTGANs for synthetic data generation</a></div>
   <div class="author">M Khalil, F Vadiee, R Shakya, <strong>Qinyi Liu</strong></div>
   <div class="periodical"><em>LAK25: 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
-  <div class="links">
-    <a href="https://doi.org/10.1145/3636555.3636921" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+<div class="links">
+  <a href="https://doi.org/10.1145/3636555.3636921"
+     class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
 <span style="
   margin-left: 12px;
   padding-left: 12px;
@@ -169,10 +199,16 @@
   <div class="title"><a href="https://doi.org/10.1145/3636555.3636921">Scaling While Privacy Preserving: a Comprehensive Synthetic Tabular Data Generation and Evaluation in Learning Analytics</a></div>
   <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil, Ronas Shakya, Jelena Jovanovic</div>
   <div class="periodical"><em>LAK24: 14th International Learning Analytics and Knowledge Conference</em> (2024)</div>
-  <div class="links">
-    <a href="https://doi.org/10.1145/3636555.3636921" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <span style="margin: 0 8px; color: #666;">|</span>
-    <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak_presentation_2024.pptx" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Slides</a>
+<div class="links">
+  <a href="https://doi.org/10.1145/3636555.3636921"
+     class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
+
+  <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak_presentation_2024.pptx"
+     class="pub-link" target="_blank">
+    <i class="fa-regular fa-file-powerpoint"></i> Slides
+  </a>
 <span style="
   margin-left: 12px;
   padding-left: 12px;
@@ -188,8 +224,11 @@
   <div class="title"><a href="https://doi.org/10.1109/EDUCON60312.2024.10578733">Explainable AI in Learning Analytics: Improving Predictive Models and Advancing Transparency and Trust</a></div>
   <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil</div>
   <div class="periodical"><em>2024 IEEE Global Engineering Education Conference (EDUCON)</em>, pp. 1–7 (2024)</div>
-  <div class="links">
-    <a href="https://doi.org/10.1109/EDUCON60312.2024.10578733" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+<div class="links">
+  <a href="https://doi.org/10.1109/EDUCON60312.2024.10578733"
+     class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
   </div>
 </li>
 </ol>
