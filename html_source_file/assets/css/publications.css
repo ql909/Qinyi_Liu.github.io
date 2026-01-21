@@ -80,3 +80,25 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+/* Venue not italic */
+#publications .periodical em{ font-style: normal; }
+#publications .periodical{
+  color: #4b5563;
+  font-size: 0.95rem;
+}
+
+/* Title size + remove blue/visited purple */
+#publications .title{
+  font-size: 1.05rem;
+  line-height: 1.35;
+  font-weight: 600;
+}
+#publications .title a,
+#publications .title a:visited{
+  color: inherit !important;
+  text-decoration: none;
+}
+#publications .title a:hover{
+  text-decoration: underline;
+}
