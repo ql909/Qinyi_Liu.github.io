@@ -55,7 +55,11 @@
   </div>
 </li>
 <li>
-  <div class="title">Brief but Impactful: How Human Tutoring Interactions Shape Engagement in Online Learning</div>
+  <div class="title">
+  <a href="https://arxiv.org/abs/2601.09994" target="_blank">
+    Brief but Impactful: How Human Tutoring Interactions Shape Engagement in Online Learning
+  </a>
+</div>
   <div class="author">Christian Borchers, Anupam Gurung, <strong>Qinyi Liu</strong>, Daniel Thomas, Mohammad Khalil, Kenneth Koedinger</div>
   <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
     <div class="links">
