@@ -158,6 +158,8 @@
   opacity: 0.85;
 }
 
+body{ outline: 6px solid hotpink !important; }
+
 
 
 
