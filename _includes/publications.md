@@ -24,7 +24,6 @@
     Accepted · 23% acceptance rate · CORE-A · CCF-A
 </span>
   </div>
-    <br>
     <small> DOI: Coming soon</small>
   </div>
 </li>
