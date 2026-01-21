@@ -84,11 +84,15 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li .links a.btn {
     margin-right: 0.8em;
 }
-/* Venue not italic */
-#publications .periodical em{ font-style: normal; }
-#publications .periodical{
-  color: #4b5563;
-  font-size: 0.95rem;
+
+
+.publications ol.bibliography li .periodical {
+    font-style: normal;
+}
+
+.publications ol.bibliography li .periodical em,
+.publications ol.bibliography li .periodical i {
+    font-style: normal;
 }
 
 
