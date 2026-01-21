@@ -29,8 +29,6 @@
         <i class="fa-brands fa-github"></i> Code
       </a>
     </div>
-
-    <small class="pub-meta">DOI: Coming soon</small>
   </li>
 
   <li>
