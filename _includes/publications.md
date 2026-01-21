@@ -30,8 +30,6 @@
      class="pub-link" target="_blank">
     <i class="fa-brands fa-github"></i> Code
   </a>
-  </a>
-</li>
 <li>
   <div class="title">
     <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/Springer_Lecture_Notes_in_Computer_Science%20(4)-1.pdf" target="_blank">
@@ -241,7 +239,7 @@
   </a>
   </div>
 </li>
-</ol>
+
 ### Journal Articles
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
 <li>
@@ -249,7 +247,10 @@
   <div class="author">Elissavet Papageorgiou, Jacqueline Wong, <strong>Qinyi Liu</strong>, Mohammad Khalil, Ana Cabo</div>
   <div class="periodical"><em>Educational Psychology Review</em> (2025)</div>
   <div class="links">
-    <a href="https://doi.org/10.1007/s10648-025-10046-y" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+  <a href="https://doi.org/10.1007/s10648-025-10046-y"
+     class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
     <span style="
   margin-left: 12px;
   padding-left: 12px;
@@ -266,7 +267,10 @@
   <div class="author"><strong>Qinyi Liu</strong>, Ronas Shakya, Jelena Jovanovic, Mohammad Khalil, Javier de la Hoz-Ruiz</div>
   <div class="periodical"><em>British Journal of Educational Technology</em>, 00, 1–21 (2025)</div>
   <div class="links">
-    <a href="https://doi.org/10.1111/bjet.13576" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+  <a href="https://doi.org/10.1111/bjet.13576"
+     class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
 <span style="
   margin-left: 12px;
   padding-left: 12px;
@@ -283,7 +287,10 @@
   <div class="author">Javier de La Hoz-Ruiz, Mohammad Khalil, Jesús Domingo Segovia, <strong>Qinyi Liu</strong></div>
   <div class="periodical"><em>Frontiers in Psychology</em>, 15 (2024)</div>
  <div class="links">
-  <a href="https://doi.org/10.3389/fpsyg.2024.1302658" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+  <a href="https://doi.org/10.3389/fpsyg.2024.1302658"
+     class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
     <span style="
   margin-left: 12px;
   padding-left: 12px;
@@ -300,7 +307,10 @@
   <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil</div>
   <div class="periodical"><em>British Journal of Educational Technology</em>, 54, 1715–1747 (2023)</div>
   <div class="links">
-    <a href="https://doi.org/10.1111/bjet.13388" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
+  <a href="https://doi.org/10.1111/bjet.13388"
+     class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
     <span style="
   margin-left: 12px;
   padding-left: 12px;
