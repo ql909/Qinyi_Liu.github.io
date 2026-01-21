@@ -212,7 +212,15 @@
   <div class="periodical"><em>British Journal of Educational Technology</em>, 00, 1–21 (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1111/bjet.13576" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
+<span style="
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid #ddd;
+  color:#2c3e50;
+  font-size: 0.9em;
+">
+  IF=6.7 · SSCI
+</span>
   </div>
 </li>
 <li>
