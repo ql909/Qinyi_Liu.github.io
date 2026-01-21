@@ -14,21 +14,21 @@
       <em>The Web Conference (WWW) Main Papers Track</em>
     </div>
 
-    <div class="links">
-      <span style="
-        margin-left: 12px;
-        padding-left: 12px;
-        border-left: 1px solid #ddd;
-        color:#2c3e50;
-        font-size: 0.9em;">
-        Accepted · 23% acceptance rate · CORE-A · CCF-A
-      </span>
+<div class="links">
+  <a href="https://github.com/ql909/An-Empirical-Study-of-TabPFN"
+     class="pub-link" target="_blank">
+    <i class="fa-brands fa-github"></i> Code
+  </a>
 
-      <a href="https://github.com/ql909/An-Empirical-Study-of-TabPFN"
-         class="pub-link" target="_blank">
-        <i class="fa-brands fa-github"></i> Code
-      </a>
-    </div>
+  <span style="
+    margin-left: 12px;
+    padding-left: 12px;
+    border-left: 1px solid #ddd;
+    color:#2c3e50;
+    font-size: 0.9em;">
+    Accepted · 23% acceptance rate · CORE-A · CCF-A
+  </span>
+</div>
   </li>
 
   <li>
