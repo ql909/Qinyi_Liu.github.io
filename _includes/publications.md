@@ -215,6 +215,10 @@
      class="pub-link" target="_blank">
     <i class="fa-regular fa-file-powerpoint"></i> Slides
   </a>
+    <a href="https://github.com/ql909/mathematical_definitions"
+     class="pub-link" target="_blank">
+    <i class="fa-brands fa-github"></i> Code
+  </a>
 <span style="
   margin-left: 12px;
   padding-left: 12px;
