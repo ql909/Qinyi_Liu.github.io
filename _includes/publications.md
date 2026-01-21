@@ -25,7 +25,6 @@
 </span>
   </div>
     <small> DOI: Coming soon</small>
-  </div>
 </li>
 <li>
   <div class="title">
@@ -125,7 +124,15 @@
   <span style="margin: 0 8px; color: #666;">|</span>
   <a href="https://github.com/DEHO-OSCAR-BLESSED/LAK25-Fairness_and_Privacy" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Codes</a>
 </div>
-<strong style="color:#e74d3c">[29% acceptance rate] [CORE-A] </strong>
+<span style="
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid #ddd;
+  color:#2c3e50;
+  font-size: 0.9em;
+">
+ 29% acceptance rate · CORE-A
+</span>
 </li>
 <li>
   <div class="title"><a href="https://doi.org/10.1109/ICTCS65341.2025.10989403">Towards Privacy-Preserving Data-Driven Education: the Potential of Federated Learning</a></div>
@@ -148,7 +155,7 @@
   color:#2c3e50;
   font-size: 0.9em;
 ">
-  Accepted · 29% acceptance rate · CORE-A
+  29% acceptance rate · CORE-A
 </span>
   </div>
 </li>
@@ -167,7 +174,7 @@
   color:#2c3e50;
   font-size: 0.9em;
 ">
-  Accepted · 30% acceptance rate · CORE-A
+ 30% acceptance rate · CORE-A
 </span>
   </div>
 </li>
@@ -188,7 +195,15 @@
   <div class="periodical"><em>Educational Psychology Review</em> (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1007/s10648-025-10046-y" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong style="color:#e74d3c"> [IF=10.1] [SSCI] </strong>
+    <span style="
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid #ddd;
+  color:#2c3e50;
+  font-size: 0.9em;
+">
+ IF=10.1 · SSCI
+</span>
   </div>
 </li>
 <li>
@@ -206,7 +221,15 @@
   <div class="periodical"><em>Frontiers in Psychology</em>, 15 (2024)</div>
  <div class="links">
   <a href="https://doi.org/10.3389/fpsyg.2024.1302658" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-  <strong style="color:#e74d3c; margin-left: 10px;">[IF=3.8] [SSCI] </strong>
+    <span style="
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid #ddd;
+  color:#2c3e50;
+  font-size: 0.9em;
+">
+ IF=3.8 · SSCI
+</span>
 </div>
 </li>
 <li>
@@ -215,7 +238,15 @@
   <div class="periodical"><em>British Journal of Educational Technology</em>, 54, 1715–1747 (2023)</div>
   <div class="links">
     <a href="https://doi.org/10.1111/bjet.13388" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
+    <span style="
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid #ddd;
+  color:#2c3e50;
+  font-size: 0.9em;
+">
+ IF=6.7 · SSCI
+</span>
   </div>
 </li>
 </ol>
@@ -227,7 +258,15 @@
   <div class="periodical"><em>British Journal of Educational Technology</em> (2025)</div>
   <div class="links">
     <a href="https://doi.org/10.1111/bjet.13580" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
-    <strong style="color:#e74d3c">[IF=6.7] [SSCI]</strong>
+    <span style="
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid #ddd;
+  color:#2c3e50;
+  font-size: 0.9em;
+">
+ IF=6.7 · SSCI
+</span>
   </div>
 </li>
 <li>
