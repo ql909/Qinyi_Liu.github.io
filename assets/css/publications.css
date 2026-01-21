@@ -3,6 +3,12 @@
   padding-bottom: 1px;
 }
 
+.bibliography .links{
+  display: flex;
+  align-items: center;
+  gap: 14px;  
+}
+
 
 .badge {
     display: inline-block;
