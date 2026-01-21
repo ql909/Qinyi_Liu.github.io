@@ -87,12 +87,12 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 
 .publications ol.bibliography li .periodical {
-    font-style: normal;
+    font-style: normal;!important
 }
 
 .publications ol.bibliography li .periodical em,
 .publications ol.bibliography li .periodical i {
-    font-style: normal;
+    font-style: normal;!important
 }
 
 
