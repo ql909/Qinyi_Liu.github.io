@@ -9,7 +9,7 @@
         Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN
       </a>
     </div>
-    <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil, Naman Goel</div>
+    <div class="author"><strong>Q Liu</strong>, M Khalil, N Goel</div>
     <div class="periodical">
       <em>The Web Conference (WWW) Main Papers Track</em>
     </div>
@@ -37,7 +37,7 @@
         Quality Degradation Attack in Synthetic Data
       </a>
     </div>
-    <div class="author"><strong>Qinyi Liu</strong>, Dong Liu, Farhad Vadiee, Mohammad Khalil, and Pedro P. Vergara Barrios</div>
+    <div class="author"><strong>Q Liu</strong>, D Liu, F Vadiee, M Khalil, and P Barrios</div>
     <div class="periodical">
       <em>International Conference on Data Science and AI for Social Good and Responsible Innovation (DASGRI-2026)</em>, Springer
     </div>
@@ -65,7 +65,7 @@
         Measuring the Impact of Student Gaming Behaviors on Learner Modeling
       </a>
     </div>
-    <div class="author"><strong>Qinyi Liu</strong>, Lin Li, Valdemar Švábenský, Christian Borchers, Mohammad Khalil</div>
+    <div class="author"><strong>Q Liu</strong>, L Li, V Švábenský, C Borchers, M Khalil</div>
     <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
 
     <div class="links">
@@ -94,7 +94,7 @@
         Brief but Impactful: How Human Tutoring Interactions Shape Engagement in Online Learning
       </a>
     </div>
-    <div class="author">Christian Borchers, Anupam Gurung, <strong>Qinyi Liu</strong>, Daniel Thomas, Mohammad Khalil, Kenneth Koedinger</div>
+    <div class="author">C Borchers, A Gurung, <strong>Q Liu</strong>, D Thomas, M Khalil, K Koedinger</div>
     <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
 
     <div class="links">
@@ -123,7 +123,7 @@
         Advancing privacy in learning analytics using differential privacy
       </a>
     </div>
-    <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil, Ronas Shakya, Jelena Jovanovic</div>
+    <div class="author"><strong>Q Liu</strong>, M Khalil, R Shakya, J Jovanovic</div>
     <div class="periodical"><em>LAK25: 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
 
     <div class="links">
@@ -152,7 +152,7 @@
         Can Synthetic Data be Fair and Private? A Comparative Study of Synthetic Data Generation and Fairness Algorithms
       </a>
     </div>
-    <div class="author"><strong>Qinyi Liu</strong>, Oscar Deho, Farzad Vadiee, Mohammad Khalil, Srecko Joksimovic, George Siemens</div>
+    <div class="author"><strong>Q Liu</strong>, O Deho, F Vadiee, M Khalil, S Joksimovic, G Siemens</div>
     <div class="periodical"><em>LAK25: 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
 
     <div class="links">
@@ -185,7 +185,7 @@
         Towards Privacy-Preserving Data-Driven Education: the Potential of Federated Learning
       </a>
     </div>
-    <div class="author">Mohammad Khalil, Ronas Shakya, <strong>Qinyi Liu</strong></div>
+    <div class="author">M Khalil, R Shakya, <strong>Q Liu</strong></div>
     <div class="periodical"><em>International Conference on New Trends In Computing Sciences (ICTCS), IEEE Xplore</em> (2025)</div>
 
     <div class="links">
@@ -201,7 +201,7 @@
         Creating artificial students that never existed: Leveraging large language models and CTGANs for synthetic data generation
       </a>
     </div>
-    <div class="author">M Khalil, F Vadiee, R Shakya, <strong>Qinyi Liu</strong></div>
+    <div class="author">M Khalil, F Vadiee, R Shakya, <strong>Q Liu</strong></div>
     <div class="periodical"><em>LAK25: 15th International Learning Analytics and Knowledge Conference</em> (2025)</div>
 
     <div class="links">
@@ -226,7 +226,7 @@
         Scaling While Privacy Preserving: a Comprehensive Synthetic Tabular Data Generation and Evaluation in Learning Analytics
       </a>
     </div>
-    <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil, Ronas Shakya, Jelena Jovanovic</div>
+    <div class="author"><strong>Q Liu</strong>, M Khalil, R Shakya, J Jovanovic</div>
     <div class="periodical"><em>LAK24: 14th International Learning Analytics and Knowledge Conference</em> (2024)</div>
 
     <div class="links">
@@ -259,7 +259,7 @@
         Explainable AI in Learning Analytics: Improving Predictive Models and Advancing Transparency and Trust
       </a>
     </div>
-    <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil</div>
+    <div class="author"><strong>Q Liu</strong>, M Khalil</div>
     <div class="periodical"><em>2024 IEEE Global Engineering Education Conference (EDUCON)</em>, pp. 1–7 (2024)</div>
 
     <div class="links">
@@ -281,7 +281,7 @@
         A systematic review on student engagement in undergraduate mathematics: Conceptualization, measurement, and learning outcomes
       </a>
     </div>
-    <div class="author">Elissavet Papageorgiou, Jacqueline Wong, <strong>Qinyi Liu</strong>, Mohammad Khalil, Ana Cabo</div>
+    <div class="author">E Papageorgiou, J Wong, <strong>Q Liu</strong>, M Khalil, A Cabo</div>
     <div class="periodical"><em>Educational Psychology Review</em> (2025)</div>
 
     <div class="links">
@@ -306,7 +306,7 @@
         Ensuring privacy through synthetic data generation in education
       </a>
     </div>
-    <div class="author"><strong>Qinyi Liu</strong>, Ronas Shakya, Jelena Jovanovic, Mohammad Khalil, Javier de la Hoz-Ruiz</div>
+    <div class="author"><strong>Q Liu</strong>, R Shakya, J Jovanovic, M Khalil, J de la Hoz-Ruiz</div>
     <div class="periodical"><em>British Journal of Educational Technology</em>, 00, 1–21 (2025)</div>
 
     <div class="links">
@@ -331,7 +331,7 @@
         Learning analytics for enhanced professional capital development: a systematic review
       </a>
     </div>
-    <div class="author">Javier de La Hoz-Ruiz, Mohammad Khalil, Jesús Domingo Segovia, <strong>Qinyi Liu</strong></div>
+    <div class="author">J de La Hoz-Ruiz, M Khalil, J.D. Segovia, <strong>Q Liu</strong></div>
     <div class="periodical"><em>Frontiers in Psychology</em>, 15 (2024)</div>
 
     <div class="links">
@@ -356,7 +356,7 @@
         Understanding privacy and data protection issues in learning analytics using a systematic review
       </a>
     </div>
-    <div class="author"><strong>Qinyi Liu</strong>, Mohammad Khalil</div>
+    <div class="author"><strong>Q Liu</strong>, M Khalil</div>
     <div class="periodical"><em>British Journal of Educational Technology</em>, 54, 1715–1747 (2023)</div>
 
     <div class="links">
@@ -387,7 +387,7 @@
         AI for data generation in education: Towards learning and teaching support at scale [Editorial]
       </a>
     </div>
-    <div class="author">Mohammad Khalil, <strong>Qinyi Liu</strong>, Jelena Jovanovic</div>
+    <div class="author">M Khalil, <strong>Q Liu</strong>, J Jovanovic</div>
     <div class="periodical"><em>British Journal of Educational Technology</em> (2025)</div>
 
     <div class="links">
@@ -412,7 +412,7 @@
         How to plan and manage a blended learning course module using generative artificial intelligence?
       </a>
     </div>
-    <div class="author">Mohammad Khalil, Ronas Shakya, <strong>Qinyi Liu</strong>, Martin Ebner</div>
+    <div class="author">M Khalil, R Shakya, <strong>Q Liu</strong>, M Ebner</div>
     <div class="periodical"><em>Case Studies on Blended Learning in Higher Education</em> (pp. 53–72). Springer (2024)</div>
 
     <div class="links">
