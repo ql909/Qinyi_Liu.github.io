@@ -434,7 +434,7 @@
         Awesome Synthetic Data Application Education
       </a>
     </div>
-    <div class="author"><strong>Qinyi Liu</strong></div>
+    <div class="author"><strong>Q Liu</strong></div>
     <div class="periodical"><em>Curated list of resources and papers for synthetic data application in education</em></div>
 
     <div class="links">
