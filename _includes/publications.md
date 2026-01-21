@@ -34,14 +34,18 @@
   </div>
 </li>
 <li>
-  <div class="title">Measuring the Impact of Student Gaming Behaviors on Learner Modeling</div>
+  <div class="title">
+    <a href="https://arxiv.org/abs/2512.18659" target="_blank">
+    Measuring the Impact of Student Gaming Behaviors on Learner Modeling</a></div>
   <div class="author"><strong>Qinyi Liu</strong>, Lin Li, Valdemar Švábenský, Christian Borchers, Mohammad Khalil</div>
   <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
   <div class="links">
     <a href="https://arxiv.org/abs/2512.18659" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
   <span style="margin: 0 8px; color: #666;">|</span>
   <a href="https://github.com/ql909/data-poison-attack-in-adaptive-learning-system" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Codes</a>
-    <strong style="color:#e74d3c">[Accepted] [28% acceptance rate] [CORE-A]</strong>
+<span style="color:#2c3e50; font-size: 0.9em;">
+  Accepted · 28% acceptance rate · CORE-A
+</span>
   </div>
 </li>
 <li>
