@@ -43,8 +43,14 @@
     <a href="https://arxiv.org/abs/2512.18659" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">DOI</a>
   <span style="margin: 0 8px; color: #666;">|</span>
   <a href="https://github.com/ql909/data-poison-attack-in-adaptive-learning-system" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Codes</a>
-<span style="color:#2c3e50; font-size: 0.9em;">
-  Accepted · 28% acceptance rate · CORE-A
+<span style="
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid #ddd;
+  color:#2c3e50;
+  font-size: 0.9em;
+">
+    Accepted · 28% acceptance rate · CORE-A
 </span>
   </div>
 </li>
