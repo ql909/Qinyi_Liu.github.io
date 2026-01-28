@@ -12,6 +12,7 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 5px;">
+  <li><a href="https://iaied.org/conferences"><autocolor>International Conference on Artificial Intelligence in Education (AIED)</autocolor></a>, 2026</li>
   <li><a href="https://www.solaresearch.org/events/lak/lak26/"><autocolor>International Conference Learning Analytics and Knowledge (LAK)</autocolor></a>, 2026</li>
   <li><a href="https://www.solaresearch.org/events/lak/lak25/"><autocolor>International Conference Learning Analytics and Knowledge (LAK)</autocolor></a>, 2025</li>
   <li><a href="https://mindtrek.org/"><autocolor>Mindtrek</autocolor></a>, 2025</li>
