@@ -25,7 +25,9 @@
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 <ul style="margin:0 0 20px;">
-      <li><a href="https://www.sciencedirect.com/journal/computers-and-security"><autocolor>Computers & Security</autocolor></a>, 2025</li>
+        <li><a href="https://link.springer.com/journal/10462"><autocolor>Artificial Intelligence Review</autocolor></a>, 2026</li>
+        <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a>, 2026</li>
+      <li><a href="https://www.sciencedirect.com/journal/computers-and-security"><autocolor>Computers & Security</autocolor></a>, 2026</li>
       <li><a href="https://peerj.com/computer-science/"><autocolor>PeerJ Computer Science</autocolor></a>, 2025</li>
       <li><a href="https://www.sciencedirect.com/journal/computers-in-biology-and-medicine"><autocolor>Computers in Biology and Medicine</autocolor></a>, 2025</li>
     <li><a href="https://link.springer.com/journal/10209"><autocolor>Universal Access in the Information Society</autocolor></a>, 2025</li>
