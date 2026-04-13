@@ -48,6 +48,10 @@
         <i class="fa-regular fa-file-lines"></i> PDF
       </a>
 
+      <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/DASGRI_2026_PPT_Template_Springer.pptx" class="pub-link" target="_blank">
+        <i class="fa-regular fa-file-powerpoint"></i> Slides
+      </a>
+
       <span style="
         margin-left: 12px;
         padding-left: 12px;
