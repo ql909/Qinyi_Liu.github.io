@@ -3,6 +3,23 @@
 
 @import "minimal-light";
 
-@import "minimal-light";
+/* ===== YOUR CUSTOM CSS BELOW ===== */
+/* ===== FIX publication spacing ===== */
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+
+.links a.pub-link {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.links a.pub-link i {
+  margin-right: 4px;
+}
 
 
