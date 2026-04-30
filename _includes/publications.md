@@ -72,27 +72,28 @@
     <div class="author"><strong>Q Liu</strong>, L Li, V Švábenský, C Borchers, M Khalil</div>
     <div class="periodical"><em>LAK26: 16th International Learning Analytics and Knowledge Conference</em> (2026)</div>
 
-    <div class="links">
-      <a href="https://arxiv.org/abs/2512.18659" class="pub-link" target="_blank">
-        <i class="fa-solid fa-link"></i> DOI
-<a href="https://github.com/ql909/data-poison-attack-in-adaptive-learning-system" class="pub-link" target="_blank">
-  <i class="fa-brands fa-github"></i> Code
-</a>
+<div class="links">
+  <a href="https://arxiv.org/abs/2512.18659" class="pub-link" target="_blank">
+    <i class="fa-solid fa-link"></i> DOI
+  </a>
 
-<a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak26presentation.pptx" class="pub-link" target="_blank">
-  <i class="fa-regular fa-file-powerpoint"></i> Slides
-</a>
+  <a href="https://github.com/ql909/data-poison-attack-in-adaptive-learning-system" class="pub-link" target="_blank">
+    <i class="fa-brands fa-github"></i> Code
+  </a>
 
-      <span style="
-        margin-left: 12px;
-        padding-left: 12px;
-        border-left: 1px solid #ddd;
-        color:#2c3e50;
-        font-size: 0.9em;">
-        Accepted · 28% acceptance rate · CORE-A
-      </span>
-    </div>
-  </li>
+  <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak26presentation.pptx" class="pub-link" target="_blank">
+    <i class="fa-regular fa-file-powerpoint"></i> Slides
+  </a>
+
+  <span style="
+    margin-left: 12px;
+    padding-left: 12px;
+    border-left: 1px solid #ddd;
+    color:#2c3e50;
+    font-size: 0.9em;">
+    Accepted · 28% acceptance rate · CORE-A
+  </span>
+</div>
 
   <li>
     <div class="title">
