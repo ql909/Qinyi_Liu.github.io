@@ -449,3 +449,22 @@
   </li>
 
 </ol>
+
+<li>
+    <div class="title">
+      <a href="https://github.com/mlgorithm/lak2026-syntheticdata-workshop" target="_blank">
+        Generative AI for Synthetic Data in Learning Analytics – LAK 2026 Workshop
+      </a>
+    </div>
+    <div class="author"><strong>Qinyi Liu et al. (with Mohammad Khalil et al.)</strong></div>
+    <div class="periodical"><em>Hands-on workshop materials, slides, datasets, and lab resources for the LAK 2026 workshop on synthetic data generation and privacy-preserving learning analytics</em></div>
+    <div class="links">
+      <a href="https://github.com/mlgorithm/lak2026-syntheticdata-workshop" class="pub-link" target="_blank">
+        <i class="fa-brands fa-github"></i> GitHub
+      </a>
+      <a href="https://lasd.slateresearch.ai/" class="pub-link" target="_blank" style="margin-left: 10px;">
+        Workshop Page
+      </a>
+    </div>
+  </li>
+</ol>
