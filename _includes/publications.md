@@ -75,17 +75,13 @@
     <div class="links">
       <a href="https://arxiv.org/abs/2512.18659" class="pub-link" target="_blank">
         <i class="fa-solid fa-link"></i> DOI
-      </a>
+<a href="https://github.com/ql909/data-poison-attack-in-adaptive-learning-system" class="pub-link" target="_blank">
+  <i class="fa-brands fa-github"></i> Code
+</a>
 
-      <a href="https://github.com/ql909/data-poison-attack-in-adaptive-learning-system" class="pub-link" target="_blank">
-        <i class="fa-brands fa-github"></i> Code
-      </a>
-
-      </a>
-
-      <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak26presentation.pptx" class="pub-link" target="_blank">
-        <i class="fa-regular fa-file-powerpoint"></i> Slides
-      </a>
+<a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/lak26presentation.pptx" class="pub-link" target="_blank">
+  <i class="fa-regular fa-file-powerpoint"></i> Slides
+</a>
 
       <span style="
         margin-left: 12px;
