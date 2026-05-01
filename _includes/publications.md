@@ -85,6 +85,10 @@
     <i class="fa-regular fa-file-powerpoint"></i> Slides
   </a>
 
+ <span class="pub-award">
+  🏆 Best Full Paper Award (Top 2%)
+</span>
+
   <span style="
     margin-left: 12px;
     padding-left: 12px;
