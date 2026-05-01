@@ -22,6 +22,11 @@
 <h4 id="awards">Awards</h4>
 <ul class="awards-list">
   <li>
+  <autocolor>
+    🏆 Best Full Paper Award, International Conference on Learning Analytics and Knowledge (LAK’26)
+  </autocolor>, 2026
+</li>
+  <li>
     <autocolor>Doctoral Consortium Fellowship, International Conference on Learning Analytics and Knowledge (LAK’24), Kyoto, Japan (USD 2,000)</autocolor>, 2024
   </li>
   <li>
