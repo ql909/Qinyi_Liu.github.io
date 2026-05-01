@@ -95,7 +95,7 @@
     border-left: 1px solid #ddd;
     color:#2c3e50;
     font-size: 0.9em;">
-    Accepted · 28% acceptance rate · CORE-A
+    · 28% acceptance rate · CORE-A
   </span>
 </div>
 
@@ -123,7 +123,7 @@
         border-left: 1px solid #ddd;
         color:#2c3e50;
         font-size: 0.9em;">
-        Accepted · 28% acceptance rate · CORE-A
+        · 28% acceptance rate · CORE-A
       </span>
     </div>
   </li>
