@@ -1,4 +1,5 @@
-## Services {#services}
+<h2 id="services">Services</h2>
+
 <h4 style="margin:0 10px 0;">Guest Editor</h4>
 <ul style="margin:0 0 5px;">
   <li><a href="https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13580"><autocolor>British Journal of Educational Technology, Special Issues on AI for Data Generation in Education: Towards Learning and Teaching Support at Scale</autocolor></a>, 2024</li>
