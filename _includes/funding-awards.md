@@ -1,7 +1,9 @@
 
+<h2 id="funding-awards">Funding & Awards</h2>
 
-<h4 id="fundings">Fundings</h4>
+<h4 id="fundings">Funding</h4>
 <ul class="funding-list">
+
   <li>
     <autocolor>Co-Principal Investigator, Norwegian Artificial Intelligence Research Consortium Summer School AI Course Grant (NOK 50,000)</autocolor>, 2024
   </li>
