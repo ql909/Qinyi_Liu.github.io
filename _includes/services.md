@@ -15,7 +15,7 @@
 <ul style="margin:0 0 5px;">
   <li><a href="https://iaied.org/conferences"><autocolor>International Conference on Artificial Intelligence in Education (AIED)</autocolor></a>, Program Committee, 2024–2026</li>
   <li><a href="https://www.solaresearch.org/events/lak/lak26/"><autocolor>Learning Analytics and Knowledge Conference (LAK)</autocolor></a>, Program Committee, 2024–2026</li>
-  <li><a href="https://icmi.acm.org/2025/"><autocolor>ACM International Conference on Multimodal Interaction (ICMI)</autocolor></a>, Reviewer, 2025, 2026</li>
+  <li><a href="https://icmi.acm.org/2025/"><autocolor>ACM International Conference on Multimodal Interaction (ICMI)</autocolor></a>, Reviewer, 2025-2026</li>
   <li><a href="https://mindtrek.org/"><autocolor>Mindtrek</autocolor></a>, Reviewer, 2025</li>
   <li><a href="https://neurips.cc/Conferences/2023/Workshops"><autocolor>NeurIPS Workshop on Generative AI for Education</autocolor></a>, Reviewer, 2023</li>
 </ul>
