@@ -20,30 +20,21 @@
   <li><a href="https://neurips.cc/Conferences/2023/Workshops"><autocolor>NeurIPS Workshop on Generative AI for Education</autocolor></a>, Reviewer, 2023</li>
 </ul>
 
-</ul>
+
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-<ul style="margin:0 0 20px;">
-        <li><a href="https://link.springer.com/journal/10462"><autocolor>Artificial Intelligence Review</autocolor></a>, 2026</li>
-        <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a>, 2026</li>
-      <li><a href="https://www.sciencedirect.com/journal/computers-and-security"><autocolor>Computers & Security</autocolor></a>, 2026</li>
-      <li><a href="https://peerj.com/computer-science/"><autocolor>PeerJ Computer Science</autocolor></a>, 2025</li>
-      <li><a href="https://www.sciencedirect.com/journal/computers-in-biology-and-medicine"><autocolor>Computers in Biology and Medicine</autocolor></a>, 2025</li>
-    <li><a href="https://link.springer.com/journal/10209"><autocolor>Universal Access in the Information Society</autocolor></a>, 2025</li>
-  <li><a href="https://www.sciencedirect.com/journal/journal-of-systems-architecture"><autocolor>Journal of Systems Architecture</autocolor></a>, 2025</li>
-  <li><a href="https://www.ieee.org/publications/transactions-on-information-forensics-and-security.html"><autocolor>Transactions on Information Forensics & Security</autocolor></a>, 2025</li>
-  <li><a href="https://www.springer.com/journal/43681"><autocolor>AI and Ethics</autocolor></a>, 2025</li>
-  <li><a href="https://journalofbigdata.springeropen.com/"><autocolor>Journal of Big Data</autocolor></a>, 2025</li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206/"><autocolor>Transactions on Information Forensics & Security</autocolor></a>, 2025</li>
-  <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports (Nature)</autocolor></a>, 2025</li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Knowledge and Data Engineering</autocolor></a>, 2025</li>
-  <li><a href="https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence"><autocolor>Computers & Education: Artificial Intelligence</autocolor></a>, 2025</li>
-  <li><a href="https://www.iospress.com/catalog/journals/international-journal-of-artificial-intelligence-in-education"><autocolor>The International Journal of Artificial Intelligence in Education (IJAIED)</autocolor></a>, 2025</li>
-  <li><a href="https://www.learning-analytics.info/index.php/JLA"><autocolor>Journal of Learning Analytics</autocolor></a>, 2025</li>
-  <li><a href="https://www.frontiersin.org/journals/psychology"><autocolor>Frontiers in Psychology</autocolor></a>, 2024</li>
-  <li><a href="https://www.frontiersin.org/journals/education"><autocolor>Frontiers in Education</autocolor></a>, 2023</li>
-  <li><a href="https://i-jet.org/"><autocolor>International Journal of Emerging Technologies in Learning (iJET)</autocolor></a>, 2023</li>
-  <li><a href="https://bera-journals.onlinelibrary.wiley.com/journal/14678535"><autocolor>British Journal of Educational Technology</autocolor></a>, 2023</li>
+<p style="margin:0 10px 5px; font-style:italic;">Common Reviewer for the following journals:</p>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://link.springer.com/journal/10462"><autocolor>Artificial Intelligence Review</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/computers-and-security"><autocolor>Computers & Security</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206"><autocolor>IEEE Transactions on Information Forensics & Security</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/11263"><autocolor>IEEE Transactions on Knowledge and Data Engineering</autocolor></a></li>
+  <li><a href="https://www.iospress.com/catalog/journals/international-journal-of-artificial-intelligence-in-education"><autocolor>International Journal of Artificial Intelligence in Education (IJAIED)</autocolor></a></li>
+  <li><a href="https://www.learning-analytics.info/index.php/JLA"><autocolor>Journal of Learning Analytics</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence"><autocolor>Computers & Education: Artificial Intelligence</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/43681"><autocolor>AI and Ethics</autocolor></a></li>
+  <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports</autocolor></a></li>
 </ul>
 
   
