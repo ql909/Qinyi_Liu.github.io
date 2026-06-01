@@ -11,16 +11,14 @@
   <li><autocolor>Symposium: Towards a Fairer Future of Education: Algorithmic Inequality and Learning Analytics</autocolor>, 2023</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewers & Program Committee</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="https://iaied.org/conferences"><autocolor>International Conference on Artificial Intelligence in Education (AIED)</autocolor></a>, 2026</li>
-  <li><a href="https://www.solaresearch.org/events/lak/lak26/"><autocolor>International Conference Learning Analytics and Knowledge (LAK)</autocolor></a>, 2026</li>
-  <li><a href="https://www.solaresearch.org/events/lak/lak25/"><autocolor>International Conference Learning Analytics and Knowledge (LAK)</autocolor></a>, 2025</li>
-  <li><a href="https://mindtrek.org/"><autocolor>Mindtrek</autocolor></a>, 2025</li>
-  <li><a href="https://icmi.acm.org/2025/"><autocolor>ACM International Conference on Multimodal Interaction (ICMI)</autocolor></a>, 2025</li>
-  <li><a href="https://aied2024.org/"><autocolor>International Conference on Artificial Intelligence in Education (AIED)</autocolor></a>, 2024</li>
-  <li><a href="https://2024.learningsciencesinternational.org/"><autocolor>International Conference Learning Analytics and Knowledge (LAK)</autocolor></a>, 2024</li>
-  <li><a href="https://neurips.cc/Conferences/2023/Workshops"><autocolor>NeurIPS’23 Workshop on Generative AI for Education</autocolor></a>, 2023</li>
+  <li><a href="https://iaied.org/conferences"><autocolor>International Conference on Artificial Intelligence in Education (AIED)</autocolor></a>, Program Committee, 2024–2026</li>
+  <li><a href="https://www.solaresearch.org/events/lak/lak26/"><autocolor>Learning Analytics and Knowledge Conference (LAK)</autocolor></a>, Program Committee, 2024–2026</li>
+  <li><a href="https://icmi.acm.org/2025/"><autocolor>ACM International Conference on Multimodal Interaction (ICMI)</autocolor></a>, Reviewer, 2025</li>
+  <li><a href="https://mindtrek.org/"><autocolor>Mindtrek</autocolor></a>, Reviewer, 2025</li>
+  <li><a href="https://neurips.cc/Conferences/2023/Workshops"><autocolor>NeurIPS Workshop on Generative AI for Education</autocolor></a>, Reviewer, 2023</li>
+</ul>
 
 </ul>
 
