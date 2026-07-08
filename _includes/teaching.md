@@ -22,10 +22,14 @@
 
 <ul class="mentoring-list">
   <li>
-    <autocolor>Håvard Lindgren, “Towards High Utility Education Tabular Synthetic Data,” Master Student Thesis</autocolor>, 2025 – 2026
+    Håvard Lindgren, “Towards High Utility Education Tabular Synthetic Data,” 
+    <strong>Master Student Thesis</strong>, 2025 – 2026 
+    <span style="color: #006400; font-weight: bold;">(Grade: A – Highest Honor)</span>
   </li>
   <li>
-    <autocolor>Sebastian Nordanger, “Evaluating Synthetic Educational Datasets with Explainable Artificial Intelligence (XAI),” Master Student Thesis</autocolor>, 2025 – 2026
+    Sebastian Nordanger, “Evaluating Synthetic Educational Datasets with Explainable Artificial Intelligence (XAI),” 
+    <strong>Master Student Thesis</strong>, 2025 – 2026 
+    <span style="color: #006400; font-weight: bold;">(Grade: A – Highest Honor)</span>
   </li>
 </ul>
 
