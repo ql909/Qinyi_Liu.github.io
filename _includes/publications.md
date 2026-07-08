@@ -14,9 +14,13 @@
       <em>The Web Conference (WWW) Main Papers Track</em>
     </div>
     <div class="links">
-      <a href="https://dl.acm.org/doi/10.1145/3774904.3792961" class="pub-link" target="_blank">
+            <a href="https://dl.acm.org/doi/10.1145/3774904.3792961" class="pub-link" target="_blank">
+        <i class="fa-solid fa-link"></i> DOI
+      </a>
+      <a href="https://github.com/ql909/An-Empirical-Study-of-TabPFN/tree/main" class="pub-link" target="_blank">
         <i class="fa-brands fa-github"></i> Code
       </a>
+      
       <span style="
         margin-left: 12px;
         padding-left: 12px;
