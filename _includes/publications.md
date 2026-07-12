@@ -3,6 +3,23 @@
 <h3>Peer-Reviewed Conference Papers</h3>
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
 
+<li>
+    <div class="title">
+      Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores
+    </div>
+    <div class="author">S, Urmian, <strong>Q Liu</strong>, M Khalil</div>
+    <div class="periodical">
+      <em>ACM Conference on Recommender Systems (RecSys) Main Track</em>
+    </div>
+    <div class="links">
+      <span style="
+        color: #2c3e50;
+        font-size: 0.9em;">
+        Accepted
+      </span>
+    </div>
+  </li>
+  
   <li>
     <div class="title">
       <a href="#" target="_blank">
