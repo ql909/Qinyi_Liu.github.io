@@ -15,7 +15,7 @@
       <span style="
         color: #2c3e50;
         font-size: 0.9em;">
-        Accepted
+        Accepted · 18% acceptance rate · CORE-A · CCF-B
       </span>
     </div>
   </li>
@@ -44,7 +44,7 @@
         border-left: 1px solid #ddd;
         color: #2c3e50;
         font-size: 0.9em;">
-        Accepted · 23% acceptance rate · CORE-A · CCF-A
+       · 23% acceptance rate · CORE-A · CCF-A
       </span>
     </div>
   </li>
