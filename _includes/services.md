@@ -11,35 +11,50 @@
   <li><autocolor>Symposium: Towards a Fairer Future of Education: Algorithmic Inequality and Learning Analytics</autocolor>, 2023</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewer <span style="font-weight:normal;">(25 international journals)</span></h4>
+<h4 style="margin:0 10px 0;">
+Journal Reviewer
+<span style="font-weight:normal;">(25 international journals)</span>
+</h4>
 
-<p style="margin:0 10px 5px;">
+<p style="margin:0 10px 8px; line-height:1.6;">
 <strong>AI &amp; Security:</strong><br>
+
+<span style="display:block; padding-left:18px;">
 <a href="https://link.springer.com/journal/11263"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a>;
-<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206"><autocolor>IEEE Transactions on Information Forensics and Security (TIFS)</autocolor></a>;
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206"><autocolor>IEEE Transactions on Information Forensics and Security (TIFS)</autocolor></a>;<br>
+
 <a href="https://www.sciencedirect.com/journal/computers-and-security"><autocolor>Computers &amp; Security</autocolor></a>;
 <a href="https://link.springer.com/journal/10462"><autocolor>Artificial Intelligence Review</autocolor></a>;
-<a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a>;
+<a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a>;<br>
+
 <a href="#"><autocolor>Journal of Big Data</autocolor></a>;
 <a href="#"><autocolor>Journal of System Architecture</autocolor></a>;
-<a href="#"><autocolor>PeerJ Computer Science</autocolor></a>;
+<a href="#"><autocolor>PeerJ Computer Science</autocolor></a>;<br>
+
 <a href="#"><autocolor>Computers in Biology and Medicine</autocolor></a>;
 <a href="#"><autocolor>Array</autocolor></a>;
-<a href="#"><autocolor>Archives of Computational Methods in Engineering</autocolor></a>;
+<a href="#"><autocolor>Archives of Computational Methods in Engineering</autocolor></a>;<br>
+
 <a href="#"><autocolor>Universal Access in the Information Society</autocolor></a>;
 <a href="https://www.springer.com/journal/43681"><autocolor>AI and Ethics</autocolor></a>;
 <a href="https://www.nature.com/sdata/"><autocolor>Scientific Data</autocolor></a>;
 <a href="#"><autocolor>SoftwareX</autocolor></a>.
+</span>
 </p>
 
-<p style="margin:0 10px 8px;">
+<p style="margin:0 10px 8px; line-height:1.6;">
 <strong>Education Technology:</strong><br>
-<a href="https://www.iospress.com/catalog/journals/international-journal-of-artificial-intelligence-in-education"><autocolor>International Journal of Artificial Intelligence in Education (IJAIED)</autocolor></a>;
+
+<span style="display:block; padding-left:18px;">
+<a href="https://www.iospress.com/catalog/journals/international-journal-of-artificial-intelligence-in-education"><autocolor>International Journal of Artificial Intelligence in Education (IJAIED)</autocolor></a>;<br>
+
 <a href="#"><autocolor>British Journal of Educational Technology (BJET)</autocolor></a>;
-<a href="https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence"><autocolor>Computers &amp; Education: Artificial Intelligence</autocolor></a>;
+<a href="https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence"><autocolor>Computers &amp; Education: Artificial Intelligence</autocolor></a>;<br>
+
 <a href="https://www.learning-analytics.info/index.php/JLA"><autocolor>Journal of Learning Analytics (JLA)</autocolor></a>;
 <a href="#"><autocolor>Frontiers in Education</autocolor></a>;
 <a href="#"><autocolor>International Journal of Emerging Technologies in Learning (iJET)</autocolor></a>.
+</span>
 </p>
 
 <h4 style="margin:10px 10px 0;">Conference Reviewer</h4>
