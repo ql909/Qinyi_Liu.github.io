@@ -37,7 +37,8 @@ Journal Reviewer
 
 <a href="https://link.springer.com/journal/10209"><autocolor>Universal Access in the Information Society</autocolor></a>;
 <a href="https://www.springer.com/journal/43681"><autocolor>AI and Ethics</autocolor></a>;
-<a href="https://www.nature.com/sdata/"><autocolor>Scientific Data</autocolor></a>;
+<a href="https://www.nature.com/sdata/"><autocolor>Scientific Data</autocolor></a>; <br>
+
 <a href="https://www.sciencedirect.com/journal/sustainable-energy-technologies-and-assessments"><autocolor>Sustainable Energy Technologies and Assessments</autocolor></a>;
 <a href="https://link.springer.com/journal/10791"><autocolor>
 Discover Computing</autocolor></a>;
@@ -50,7 +51,7 @@ Discover Computing</autocolor></a>;
 
 <span style="display:block; padding-left:18px;">
 
-<a href="https://www.sciencedirect.com/journal/computers-and-education"><autocolor>Computers & Education</autocolor></a>;<a href="https://www.iospress.com/catalog/journals/international-journal-of-artificial-intelligence-in-education"><autocolor>International Journal of Artificial Intelligence in Education (IJAIED)</autocolor></a>;<br>
+<a href="https://www.sciencedirect.com/journal/computers-and-education"><autocolor>Computers & Education</autocolor></a>; <a href="https://www.iospress.com/catalog/journals/international-journal-of-artificial-intelligence-in-education"><autocolor>International Journal of Artificial Intelligence in Education (IJAIED)</autocolor></a>;<br>
 
 <a href="#"><autocolor>British Journal of Educational Technology (BJET)</autocolor></a>;
 <a href="https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence"><autocolor>Computers &amp; Education: Artificial Intelligence</autocolor></a>;<br>
