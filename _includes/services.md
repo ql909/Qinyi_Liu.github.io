@@ -41,7 +41,7 @@ Journal Reviewer
 
 <a href="https://www.sciencedirect.com/journal/sustainable-energy-technologies-and-assessments"><autocolor>Sustainable Energy Technologies and Assessments</autocolor></a>;
 <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/journal/knowledge-based-systems&ved=2ahUKEwjfpKij_oGWAxVhLzQIHeMVAsQQFnoECBsQAQ&usg=AOvVaw0SI1Z_rM3ja1JAq1m82JCA"><autocolor>
-Knowledge-Based System</autocolor></a>
+Knowledge-Based System</autocolor></a>;
 
 
 <a href="https://link.springer.com/journal/44564"><autocolor>
