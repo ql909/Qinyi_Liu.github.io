@@ -13,7 +13,7 @@
 
 <h4 style="margin:0 10px 0;">
 Journal Reviewer
-<span style="font-weight:normal;">(25 international journals)</span>
+<span style="font-weight:normal;">(27 international journals)</span>
 </h4>
 
 <p style="margin:0 10px 8px; line-height:1.6;">
