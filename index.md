@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I’m Qinyi Liu, an Assistant Professor at the City University of Macau. My research explores how we can build AI systems that remain trustworthy when they encounter the complexity of the real world, with a focus on applications in the education domain. 
+Hi! I’m Qinyi Liu, an Assistant Professor at the City University of Macau. My research explores how we can build AI systems that remain trustworthy when they encounter the complexity of the real world, with a focus on applications in the education domain. My research has appeared in leading venues across AI and education, including WWW, RecSys, LAK, and BJET.
 
 
 I have an interdisciplinary background in computer science and social science, holding degrees in both fields. I completed my PhD at the [Centre for the Science of Learning & Technology (SLATE)](https://www.uib.no/en/slate), University of Bergen, working with [Prof. Mohammad Khalil](https://scholar.google.com/citations?user=fD0ATFQAAAAJ&hl=en). During my PhD, I also visited the University of South Australia and Monash University as a visiting scholar funded by [Meltzerfondet](https://meltzerfondet.w.uib.no/). 
