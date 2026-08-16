@@ -17,8 +17,8 @@ I work at the intersection of **Trustworthy AI, Data Science, and Education**.
 
 **What I study**  
 
-How can AI systems remain trustworthy and deployable when operating under real-world constraints?  
-As digital technology increasingly shapes education, how do we ensure learning environments are intelligent and trustworthy?
+- How can AI systems remain trustworthy and deployable when operating under real-world constraints?  
+- As digital technology increasingly shapes education, how do we ensure learning environments are intelligent and trustworthy?
 
 **How I approach it**  
 
