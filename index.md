@@ -15,15 +15,17 @@ I pursued my master's studies at the University of Edinburgh and the University 
 ## Research Interests
 I work at the intersection of **Trustworthy AI, Data Science, and Education**.
 
-**What I study**
-*How can AI systems remain trustworthy and deployable when operating under real-world constraints?*
-*As digital technology increasingly shapes education, how do we ensure learning environments are intelligent and trustworthy?*
+**What I study**  
 
+How can AI systems remain trustworthy and deployable when operating under real-world constraints?  
+As digital technology increasingly shapes education, how do we ensure learning environments are intelligent and trustworthy?
 
-**How I approach it**
+**How I approach it**  
+
 I develop privacy-preserving, fair, and behaviour-aware methods, including **synthetic data, differential privacy, and responsible learning analytics**.
 
-**Where I study it**
+**Where I study it**  
+
 Education serves as an important real-world setting for this work, while many of the underlying questions extend to data-driven systems more broadly.
 
 
