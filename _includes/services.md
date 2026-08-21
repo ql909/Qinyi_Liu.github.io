@@ -69,9 +69,10 @@ Discover Computing</autocolor></a>;
 </span>
 </p>
 
-<h4 style="margin:10px 10px 0;">Conference Reviewer</h4>
+<h4 style="margin:10px 10px 0;">Conference Program Committee & Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
+   <li>2026: <a href="https://sites.google.com/view/releaf-data-challenge-icce2026"><autocolor>The 34th International Conference on Computers in Education, 1st Workshop on Trustworthy Educational Data Sharing and Secondary Use: The ReLEAF Data Challenge</autocolor></a></li>
     <li>2024–2026: <a href="https://www.solaresearch.org/events/lak/lak26/"><autocolor>Learning Analytics and Knowledge Conference (LAK)</autocolor></a></li>
     <li>2025–2026: <a href="https://iaied.org/conferences"><autocolor>International Conference on Artificial Intelligence in Education (AIED)</autocolor></a></li> 
     <li>2025–2026: <a href="https://icmi.acm.org/2025/"><autocolor>ACM International Conference on Multimodal Interaction (ICMI)</autocolor></a></li>
