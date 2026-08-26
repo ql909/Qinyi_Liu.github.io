@@ -323,7 +323,7 @@
         border-left: 1px solid #ddd;
         color:#2c3e50;
         font-size: 0.9em;">
-        IF=6.7 · SSCI
+        IF=13 · SSCI
       </span>
     </div>
   </li>
@@ -373,7 +373,7 @@
         border-left: 1px solid #ddd;
         color:#2c3e50;
         font-size: 0.9em;">
-        IF=6.7 · SSCI
+        IF=13.0 · SSCI
       </span>
     </div>
   </li>
