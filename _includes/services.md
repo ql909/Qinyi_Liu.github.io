@@ -54,6 +54,9 @@ Discover Informatics</autocolor></a>;
 Discover Computing</autocolor></a>;
 <a href="#"><autocolor>SoftwareX</autocolor></a>; <br>
 
+
+<a href="https://onlinelibrary.wiley.com/journal/24756725"><autocolor>
+Security and Privacy</autocolor></a>; <br>
 </span>
 </p>
 
