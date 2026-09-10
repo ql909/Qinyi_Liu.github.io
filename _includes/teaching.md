@@ -2,6 +2,12 @@
 
 <ul class="teaching-list">
     <li>
+    <autocolor>Instructor, BOE413 Education Technology, City University of Macau</autocolor>, 2026
+  </li>
+    <li>
+    <autocolor>Instructor, MTL003 Infomation Technology and Learning, City University of Macau</autocolor>, 2026
+  </li>
+    <li>
     <autocolor>Co-instructor, IGSIN919V Introduction to Practical Machine Learning, University of Bergen</autocolor>, 2026
   </li>
   <li>
