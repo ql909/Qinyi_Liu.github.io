@@ -18,7 +18,7 @@
 
 <h4 style="margin:0 10px 0;">
 Journal Reviewer
-<span style="font-weight:normal;">(28 international journals)</span>
+<span style="font-weight:normal;">(30 international journals)</span>
 </h4>
 
 <p style="margin:0 10px 8px; line-height:1.6;">
@@ -55,8 +55,12 @@ Discover Computing</autocolor></a>;
 <a href="#"><autocolor>SoftwareX</autocolor></a>; <br>
 
 
+
 <a href="https://onlinelibrary.wiley.com/journal/24756725"><autocolor>
-Security and Privacy</autocolor></a>; <br>
+Security and Privacy</autocolor></a>; 
+
+<a href="https://www.sciencedirect.com/journal/computer-communications"><autocolor>
+Computer Communications</autocolor></a>;<br>
 </span>
 </p>
 
