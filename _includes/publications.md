@@ -427,6 +427,84 @@
 
 </ol>
 
+<h3>Selected Posters & Invited Talks</h3>
+<ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
+  <li>
+    <div class="title">
+      <a href="https://www4.uib.no/en/university-library/events/can-synthetic-data-make-research-data-more-open-opportunities-and-privacy-risks-in-the-age-of-ai" target="_blank">
+        Can Synthetic Data Make Research Data More Open? Opportunities and Privacy Risks in the Age of AI
+      </a>
+    </div>
+    <div class="author"><strong>Q Liu</strong></div>
+    <div class="periodical">
+      <em>Invited talk, Open Science Lunch, University of Bergen / BOTT Universities, 24 September 2026</em>
+    </div>
+    <div class="links">
+      <a href="https://www4.uib.no/en/university-library/events/can-synthetic-data-make-research-data-more-open-opportunities-and-privacy-risks-in-the-age-of-ai" class="pub-link" target="_blank">
+        Link
+      </a>
+    </div>
+  </li>
+  <li>
+    <div class="title">
+      <a href="https://dl.acm.org/doi/pdf/10.1145/3748522.3780011" target="_blank">
+        ORCHID-RANKER: An Agentic Adaptive Recommender for Education with Privacy Guarantees
+      </a>
+    </div>
+    <div class="author">
+      <strong>F. Vadiee, Q. Liu, &amp; M. Khalil</strong>
+    </div>
+    <div class="periodical">
+      <em>Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing (SAC), pp. 116–117 (2026)</em>
+    </div>
+    <div class="links">
+      <a href="https://dl.acm.org/doi/pdf/10.1145/3748522.3780011" class="pub-link" target="_blank">
+        Link
+      </a>
+    </div>
+  </li>
+  <li>
+    <div class="title">
+      Using Synthetic Data for Scalable Privacy Preserving in Learning Analytics
+    </div>
+    <div class="author"><strong>Q Liu</strong></div>
+    <div class="periodical">
+      <em>Invited talk, Centre for Change and Complexity in Learning (University of South Australia), November 2024</em>
+    </div>
+  </li>
+  <li>
+    <div class="title">
+      Exploring the Generation of Synthetic Educational Tabular Data using LLMs
+    </div>
+    <div class="author">
+      <strong>Q. Liu &amp; M. Khalil</strong>
+    </div>
+    <div class="periodical">
+      <em>Workshop paper, 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’24), AI for Education (AI4EDU) Workshop, Barcelona, Spain, June 2024. [CORE-A]</em>
+    </div>
+  </li>
+  <li>
+    <div class="title">
+      Privacy and Data Protection for a Trustworthy Learning Analytics in Higher Education
+    </div>
+    <div class="author"><strong>Q Liu</strong></div>
+    <div class="periodical">
+      <em>Poster presentation, The 14th International Learning Analytics and Knowledge Conference, Kyoto, Japan, March 2023. <strong>Best poster award</strong></em>
+    </div>
+  </li>
+  <li>
+    <div class="title">
+      Perspectives of Multimodal Data Sharing and Privacy in VR Learning Rooms
+    </div>
+    <div class="author">
+      <strong>Q. Liu, A. Mestre, &amp; M. Khalil</strong>
+    </div>
+    <div class="periodical">
+      <em>Poster presentation, The 13th International Learning Analytics and Knowledge Conference, Arlington, Texas, USA, 13–17 March 2023. <strong>Best poster award</strong></em>
+    </div>
+  </li>
+</ol>
+
 <h3>Open Source Projects</h3>
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
 
