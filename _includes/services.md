@@ -56,9 +56,6 @@ Discover Computing</autocolor></a>;
 
 
 
-<a href="https://onlinelibrary.wiley.com/journal/24756725"><autocolor>
-Security and Privacy</autocolor></a>; 
-
 <a href="https://www.sciencedirect.com/journal/computer-communications"><autocolor>
 Computer Communications</autocolor></a>;<br>
 </span>
