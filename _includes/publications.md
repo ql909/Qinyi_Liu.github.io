@@ -490,7 +490,7 @@
     </div>
     <div class="author"><strong>Q Liu</strong></div>
     <div class="periodical">
-      <em>Poster presentation, The 14th International Learning Analytics and Knowledge Conference, Kyoto, Japan, March 2023. <strong>Best poster award</strong></em>
+      <em>Poster presentation, The 14th International Learning Analytics and Knowledge Conference, Kyoto, Japan, March 2023. <strong>  🏆 Best poster award</strong></em>
     </div>
   </li>
   <li>
@@ -501,7 +501,7 @@
       <strong>Q. Liu, A. Mestre, &amp; M. Khalil</strong>
     </div>
     <div class="periodical">
-      <em>Poster presentation, The 13th International Learning Analytics and Knowledge Conference, Arlington, Texas, USA, 13–17 March 2023. <strong>Best poster award</strong></em>
+      <em>Poster presentation, The 13th International Learning Analytics and Knowledge Conference, Arlington, Texas, USA, 13–17 March 2023. <strong> 🏆 Best poster award</strong></em>
     </div>
   </li>
 </ol>
