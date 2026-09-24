@@ -436,13 +436,11 @@
       </a>
     </div>
     <div class="author"><strong>Q Liu</strong></div>
-<div class="periodical">
+    <div class="periodical">
       <em>Invited talk, Open Science Lunch, University of Bergen / BOTT Universities, 24 September 2026</em>
     </div>
     <div class="links">
-      <a href="https://www4.uib.no/en/university-library/events/can-synthetic-data-make-research-data-more-open-opportunities-and-privacy-risks-in-the-age-of-ai" class="pub-link" target="_blank">
-        Link
-      </a>
+      <a href="https://www4.uib.no/en/university-library/events/can-synthetic-data-make-research-data-more-open-opportunities-and-privacy-risks-in-the-age-of-ai" class="pub-link" target="_blank">Link</a>
       <a href="https://github.com/ql909/Qinyi_Liu.github.io/blob/main/assets/files/slide/open%20science%20talk.pptx" class="pub-link" target="_blank" style="margin-left: 10px;">
         <i class="fa-regular fa-file-powerpoint"></i> Slides
       </a>
