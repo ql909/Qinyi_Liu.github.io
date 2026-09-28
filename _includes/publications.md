@@ -4,32 +4,31 @@
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
 
 <li>
-  <article>
-    <header>
-      <div class="title">
-        <a href="https://arxiv.org/abs/2609.29453" target="_blank" rel="noopener">
-          Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores
-        </a>
-      </div>
-      <p class="author">
-        Sam Urmian, <strong>Qinyi Liu</strong>, Mohammad Khalil
-      </p>
-      <p class="periodical">
-        <em>ACM Conference on Recommender Systems (RecSys), Main Track</em>
-      </p>
-    </header>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2609.29453" target="_blank" rel="noopener">
-        📄 Paper
-      </a>
-      <a href="https://github.com/mlgorithm/decoupled-slate-recommendation-recsys-2026" target="_blank" rel="noopener">
-        💻 Code
-      </a>
-    </div>
-    <p class="pub-meta">
-      Accepted · 18% acceptance rate · CORE-A · CCF-B
-    </p>
-  </article>
+  <div class="title">
+    <a href="https://dl.acm.org/doi/10.1145/3774904.3792961" target="_blank">
+      Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN
+    </a>
+  </div>
+  <div class="author">Sam Urmian, <strong>Qinyi Liu</strong>, Mohammad Khalil</div>
+  <div class="periodical">
+    <em>ACM Conference on Recommender Systems (RecSys), Main Track</em>
+  </div>
+  <div class="links">
+    <a href="https://arxiv.org/abs/2609.29453" class="pub-link" target="_blank">
+      <i class="fa-solid fa-link"></i> DOI
+    </a>
+    <a href="https://github.com/mlgorithm/decoupled-slate-recommendation-recsys-2026" class="pub-link" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
+    <span style="
+      margin-left: 12px;
+      padding-left: 12px;
+      border-left: 1px solid #ddd;
+      color: #2c3e50;
+      font-size: 0.9em;">
+     · 23% acceptance rate · CORE-A · CCF-A
+    </span>
+  </div>
 </li>
   
 <li>
