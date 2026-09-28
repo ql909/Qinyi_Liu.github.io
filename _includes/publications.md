@@ -5,6 +5,7 @@
 
 <li>
     <div class="title">
+        <a href="https://arxiv.org/abs/2609.29453" target="_blank">
       Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores
     </div>
     <div class="author">S, Urmian, <strong>Q Liu</strong>, M Khalil</div>
@@ -12,6 +13,12 @@
       <em>ACM Conference on Recommender Systems (RecSys) Main Track</em>
     </div>
     <div class="links">
+         <a href="https://arxiv.org/pdf/2609.29453" class="pub-link" target="_blank">
+      <i class="fa-solid fa-link"></i> DOI
+    </a>
+    <a href="https://github.com/mlgorithm/decoupled-slate-recommendation-recsys-2026" class="pub-link" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
       <span style="
         color: #2c3e50;
         font-size: 0.9em;">
