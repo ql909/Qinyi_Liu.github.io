@@ -26,7 +26,7 @@
       border-left: 1px solid #ddd;
       color: #2c3e50;
       font-size: 0.9em;">
-     · 23% acceptance rate · CORE-A · CCF-A
+     · 18% acceptance rate · CORE-A · CCF-A
     </span>
   </div>
 </li>
