@@ -8,7 +8,6 @@
         <a href="https://arxiv.org/abs/2609.29453" target="_blank" rel="noopener">
           Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores
         </a>
-      </h3>
       <p class="author">
         Urmian S, <strong>Q Liu</strong>, M Khalil
       </p>
