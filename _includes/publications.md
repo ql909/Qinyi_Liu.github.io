@@ -4,7 +4,7 @@
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
 
 <li>
-      <h3 class="title">
+      <div class="title">
         <a href="https://arxiv.org/abs/2609.29453" target="_blank" rel="noopener">
           Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores
         </a>
