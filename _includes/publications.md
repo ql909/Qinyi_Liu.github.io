@@ -6,7 +6,7 @@
 <li>
   <div class="title">
     <a href="https://dl.acm.org/doi/10.1145/3774904.3792961" target="_blank">
-      Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN
+      Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores
     </a>
   </div>
   <div class="author">Sam Urmian, <strong>Qinyi Liu</strong>, Mohammad Khalil</div>
