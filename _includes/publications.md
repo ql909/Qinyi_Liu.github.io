@@ -4,28 +4,33 @@
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
 
 <li>
-    <div class="title">
-        <a href="https://arxiv.org/abs/2609.29453" target="_blank">
-      Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores
-    </div>
-    <div class="author">S, Urmian, <strong>Q Liu</strong>, M Khalil</div>
-    <div class="periodical">
-      <em>ACM Conference on Recommender Systems (RecSys) Main Track</em>
-    </div>
+      <h3 class="title">
+        <a href="https://arxiv.org/abs/2609.29453" target="_blank" rel="noopener">
+          Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores
+        </a>
+      </h3>
+      <p class="author">
+        Urmian S, <strong>Q Liu</strong>, M Khalil
+      </p>
+      <p class="periodical">
+        <em>ACM Conference on Recommender Systems (RecSys), Main Track</em>
+      </p>
+    </header>
+
     <div class="links">
-         <a href="https://arxiv.org/pdf/2609.29453" class="pub-link" target="_blank">
-      <i class="fa-solid fa-link"></i> DOI
-    </a>
-    <a href="https://github.com/mlgorithm/decoupled-slate-recommendation-recsys-2026" class="pub-link" target="_blank">
-      <i class="fa-brands fa-github"></i> Code
-    </a>
-      <span style="
-        color: #2c3e50;
-        font-size: 0.9em;">
-        Accepted · 18% acceptance rate · CORE-A · CCF-B
-      </span>
+      <a href="https://arxiv.org/pdf/2609.29453" target="_blank" rel="noopener">
+        📄 Paper
+      </a>
+      <a href="https://github.com/mlgorithm/decoupled-slate-recommendation-recsys-2026" target="_blank" rel="noopener">
+        💻 Code
+      </a>
     </div>
-  </li>
+
+    <p class="pub-meta">
+      Accepted · 18% acceptance rate · CORE-A · CCF-B
+    </p>
+  </article>
+</li>
   
 <li>
   <div class="title">
