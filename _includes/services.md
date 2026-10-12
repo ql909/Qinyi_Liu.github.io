@@ -57,7 +57,9 @@ Discover Computing</autocolor></a>;
 
 
 <a href="https://www.sciencedirect.com/journal/computer-communications"><autocolor>
-Computer Communications</autocolor></a>;<br>
+Computer Communications</autocolor></a>; 
+<a href="https://www.sciencedirect.com/journal/clinica-chimica-acta"><autocolor>
+Clinica Chimica Acta</autocolor></a>;<br>
 </span>
 </p>
 
