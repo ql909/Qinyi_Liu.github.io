@@ -517,8 +517,20 @@
   </li>
 </ol>
 
-<h3>Open Source Projects</h3>
+<h3>Scholarly Resources and Educational Outputs</h3>
 <ol class="bibliography" reversed style="list-style-type: decimal; padding-left: 20px;">
+
+  <li>
+    <div class="title">
+      Trustworthy AI in the Age of LLMs: Definition, Dimensions, and Assessment
+    </div>
+    <div class="author">
+      H. Liu, H. Shen, H. Huang, Z. Cui, <strong>Q. Liu</strong>, &amp; Y. Li
+    </div>
+    <div class="periodical">
+      <em>Accepted to the NeurIPS 2026 Education Track.</em> [CCF-A]
+    </div>
+  </li>
 
   <li>
     <div class="title">
@@ -528,7 +540,7 @@
     </div>
     <div class="author"><strong>Q Liu</strong></div>
     <div class="periodical">
-      <em>Curated list of resources and papers for synthetic data application in education</em>
+      <em>Curated list of resources and papers for synthetic data applications in education</em>
     </div>
     <div class="links">
       <a href="https://github.com/ql909/awesome-synthetic-data-education" class="pub-link" target="_blank">
@@ -544,11 +556,11 @@
       </a>
     </div>
     <div class="author">
-      <strong>Qinyi Liu et al. (with Mohammad Khalil et al.)</strong>
+      <strong>Qinyi Liu</strong> et al. (with Mohammad Khalil et al.)
     </div>
     <div class="periodical">
       <em>
-        Hands-on workshop materials, slides, datasets, and lab resources for the LAK 2026 workshop on synthetic data generation and privacy-presing learning analytics
+        Hands-on workshop materials, slides, datasets, and lab resources for the LAK 2026 workshop on synthetic data generation and privacy-preserving learning analytics
       </em>
     </div>
     <div class="links">
@@ -560,5 +572,6 @@
       </a>
     </div>
   </li>
+
 
 </ol>
