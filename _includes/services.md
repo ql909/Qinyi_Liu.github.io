@@ -16,6 +16,11 @@
   <li><autocolor>Symposium: Towards a Fairer Future of Education: Algorithmic Inequality and Learning Analytics</autocolor>, 2023</li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Policy Consultation</h4>
+<ul style="margin:0 0 5px;">
+  <li>Co-authored, with Linas Vastakas, a response to the European Data Protection Board's public consultation on <a href="https://www.edpb.europa.eu/public-consultations/guidelines-022026-on-anonymisation_en"><autocolor>Guidelines 02/2026 on Anonymisation</autocolor></a>, 2026.</li>
+</ul>
+
 <h4 style="margin:0 10px 0;">
 Journal Reviewer
 <span style="font-weight:normal;">(30 international journals)</span>
